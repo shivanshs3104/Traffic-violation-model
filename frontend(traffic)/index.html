@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI Driven Traffic Violation Detection System</title>
+
+  <!-- Fonts + Icons -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet" />
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="preconnect" href="https://images.unsplash.com" />
+</head>
+<body class="bg-gradient">
+  <!-- Decorative glows -->
+  <div class="glow glow-1"></div>
+  <div class="glow glow-2"></div>
+
+  <header class="landing-header">
+    <div class="brand">
+      <i class="ri-shield-star-line"></i>
+      <span>AI Traffic</span>
+    </div>
+    <nav class="landing-nav">
+      <a href="#" class="pill-btn outlined small">Docs</a>
+      <a href="#" class="pill-btn outlined small">Support</a>
+      <a href="#login" class="pill-btn small">Login</a>
+    </nav>
+  </header>
+
+  <main class="landing">
+    <!-- Left: Intro -->
+    <section class="landing-left glass-card">
+      <h1 class="hero-title">AI Driven Traffic Violation Detection System</h1>
+      <p class="hero-subtitle">
+        Uses AI and ANPR (Automatic Number Plate Recognition) to detect overspeeding, red light jumping, and helmet violations.
+        Helps authorities monitor roads and auto-generate challans with analytics, reports, and payment tracking.
+      </p>
+
+      <div class="feature-list">
+        <div class="feature">
+          <i class="ri-cpu-line"></i>
+          <div>
+            <h3>AI + ANPR Pipeline</h3>
+            <p>Detect vehicles, read license plates, and classify violations in real-time.</p>
+          </div>
+        </div>
+        <div class="feature">
+          <i class="ri-traffic-light-line"></i>
+          <div>
+            <h3>Automation</h3>
+            <p>Log events and generate challans automatically for authorities.</p>
+          </div>
+        </div>
+        <div class="feature">
+          <i class="ri-secure-payment-line"></i>
+          <div>
+            <h3>Payments & Reports</h3>
+            <p>Track dues, payments, and trend analysis in one dashboard.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Right: Login -->
+    <section id="login" class="landing-right glass-card">
+      <div class="login-header">
+        <i class="ri-user-3-line"></i>
+        <h2>Login</h2>
+      </div>
+      <form id="login-form" class="login-form" autocomplete="on" novalidate>
+        <label class="field">
+          <span>Email</span>
+          <input type="email" id="email" placeholder="admin@traffic.ai" autocomplete="username" required />
+        </label>
+        <label class="field">
+          <span>Password</span>
+          <input type="password" id="password" placeholder="admin123" autocomplete="current-password" required />
+        </label>
+        <button type="submit" id="login-btn" class="pill-btn full">
+          <i class="ri-login-circle-line"></i>
+          Login
+        </button>
+        <p class="muted small center">Demo: admin@traffic.ai / admin123</p>
+        <p id="login-error" class="error-msg" role="alert" aria-live="polite"></p>
+      </form>
+    </section>
+  </main>
+
+  <footer class="landing-footer">
+    <p>© <span id="year"></span> AI Traffic. AI-powered governance.</p>
+  </footer>
+
+  <!-- Scripts -->
+  <script defer src="js/login.js"></script>
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
