@@ -1,55 +1,67 @@
-# Workflow ka naam
-name: Deploy React App to GitHub Pages
+# Name of your workflow
+name: Build and Deploy React App to GitHub Pages
 
-# Yeh workflow kab chalega
+# Run this workflow on every push to the 'project' branch
 on:
   push:
-    branches:
-      - project  # Sirf 'project' branch par push hone se chalega
-  workflow_dispatch: # Manual trigger ke liye
+    branches: [ "project" ]
 
-# Permissions
+# Set the permissions this workflow needs to deploy to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Environment
-environment:
-  deployment:
-    url: ${{ steps.deployment.outputs.page_url }}
-
-# Jobs
+# This workflow has two jobs: 'build' and 'deploy'
 jobs:
+  # The 'build' job
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Code ko checkout (download) karein
+      # 1. Check out your repository code
+      - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Node.js set up karein
+      # 2. Set up Node.js (version 20.x)
+      - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
-          cache: 'npm'
+          node-version: "20.x"
+          cache: "npm"
 
-      - name: Dependencies install karein
+      # 3. Install dependencies from package-lock.json
+      - name: Install dependencies
         run: npm ci
 
-      - name: App ko build karein
+      # 4. Run the linter (from your package.json)
+      - name: Run linter
+        run: npm run lint
+
+      # 5. Build the React app (this creates the 'dist' folder)
+      - name: Build project
         run: npm run build
 
-      - name: Build files ko upload karein
+      # 6. Upload the 'dist' folder as an artifact named 'github-pages'
+      # This artifact is specially formatted for GitHub Pages.
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist # Build folder ka path
+          path: ./dist
 
+  # The 'deploy' job
   deploy:
-    # 'build' job ke baad chalega
+    # This job runs *after* the 'build' job is successful
     needs: build
+
+    # Use the GitHub Pages environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }} # Get the URL from the deploy step
+
     runs-on: ubuntu-latest
-    name: Deploy
     steps:
-      - name: GitHub Pages par deploy karein
+      # 1. Deploy the artifact to GitHub Pages
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+```eof
