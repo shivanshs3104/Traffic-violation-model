@@ -1,0 +1,4149 @@
+[
+    {
+        "image": "d04392ff-58fc-4800-ada5-f7a0f9a0fc8d_jpg.rf.6222aed4a5e591983fca69d671f40dc0.jpg",
+        "license_plate": "dgui6",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 1,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "EiXQnj0VgAAsiAk_jpg.rf.ad8d1fa83930725799bbc1a49bfa430d.jpg",
+        "license_plate": "20/0912020 12:04",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "ERSa1hnVAAEDQs6_jpg.rf.57c3b84f7b364f793f3147ed1ee9ecab.jpg",
+        "license_plate": "License Plate Not Visible",
+        "violation": "Tripling",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 1,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "gettyimages-1149420610-612x612_jpg.rf.cd5fd874a3255a7bf72b34b71619ea8f.jpg",
+        "license_plate": "gettyimages'",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "helmet106_jpg.rf.88f3def13e1a01afb9b8fa07ccf6c5e5.jpg",
+        "license_plate": "UAZ 356",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 2,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "helmet111_jpg.rf.38538654421032f97a37e953fbf3389b.jpg",
+        "license_plate": "elfo",
+        "violation": "Tripling",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "helmet135_jpg.rf.8135ab538978739aed4e55befb155199.jpg",
+        "license_plate": "alan",
+        "violation": "Tripling",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "helmet136_jpg.rf.23ea532b358c8f006babfe11d59c7c14.jpg",
+        "license_plate": "31861*6",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 2,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "helmet141_jpg.rf.fc42aa4ab005389da2f7893be1f13a7d.jpg",
+        "license_plate": "geltyimages'",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 1,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "helmet144_jpg.rf.45e079594f3f8c60916b9d83d688db6b.jpg",
+        "license_plate": "Izig1H4 451",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 1,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "helmet153_jpg.rf.148a1e846b544457e3096fd2692f213a.jpg",
+        "license_plate": "alamy",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "helmet176_jpg.rf.981b5b3fc888e3e6469821f7265df610.jpg",
+        "license_plate": "0 John Norris",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "helmet181_jpg.rf.66ba799330e5e01672c052c4adf333e4.jpg",
+        "license_plate": "alamy",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "helmet22_jpeg.rf.8badd5fd5319da66df808f8be2fb14a3.jpg",
+        "license_plate": "Beam C",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "helmet30_jpg.rf.74ab3e45fdb56b4cc8c2884bc0c88015.jpg",
+        "license_plate": "Kkashmirpulse com",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 0,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "helmet37_jpg.rf.ddb88587b592101a449e1d10c9ce9a04.jpg",
+        "license_plate": "WNTZ\"",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "helmet38_jpg.rf.e83be20b06e9177297502c469b4224d1.jpg",
+        "license_plate": "485?",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "helmet45_jpg.rf.cd30a9e529568769b9f9714a97ae16d9.jpg",
+        "license_plate": "PRASHANT NADKAR",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "helmet47_jpg.rf.befa091cf7bff5628058ee540a956151.jpg",
+        "license_plate": "AP23",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 1,
+            "helmet": 1,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "helmet50_jpeg.rf.da78634eb78c5f856653b52d3dab4dd9.jpg",
+        "license_plate": "7iCke",
+        "violation": "Tripling",
+        "detections": {
+            "motorbike": 0,
+            "person": 3,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "helmet51_jpg.rf.492bfe3b4459cfda5eaa0cc618b4bbc5.jpg",
+        "license_plate": "[ieteBeam.c/A",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "helmet71_jpg.rf.75690878ad0293fdb96ae6ec4f5a569d.jpg",
+        "license_plate": "M02cu688",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 4,
+            "helmet": 3,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "helmet94_jpeg.rf.3ae893425ffd095914e6711534206652.jpg",
+        "license_plate": "Eani",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "istockphoto-459234441-1024x1024_jpg.rf.18bf92a471b95052a73680765509a37f.jpg",
+        "license_plate": "by Gelt",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "Lw-Ch4uFCQ_p2LfN_jpg.rf.311a5025e4ecbd71028ec71c43c92aee.jpg",
+        "license_plate": "License Plate Not Visible",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-1003_jpg.rf.7ff8034a35fb07d7260349c8a9f78a65.jpg",
+        "license_plate": "0370822023_THU:",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-1011_jpg.rf.b684cbebe4057b024bba5a87fc3819b0.jpg",
+        "license_plate": "0370872023 THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-1031_jpg.rf.ea1dd4d9e49063be65efeef19eb40362.jpg",
+        "license_plate": "03/0822023 THU",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-1036_jpg.rf.f9c66355cbebc012520f50fbe7f06c12.jpg",
+        "license_plate": "03/0872023  THU\"",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-1043_jpg.rf.3819aef05be7546afe7841334a4d0f4c.jpg",
+        "license_plate": "0370822023,THVT",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-1051_jpg.rf.de6ccb4b73a44aa1b42fa210169932db.jpg",
+        "license_plate": "0370822023THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-1052_jpg.rf.b3ffc9d6433bed66949b67e392918a3a.jpg",
+        "license_plate": "0370822023.THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-1059_jpg.rf.affc6fef855f2652410126f9cbc10f54.jpg",
+        "license_plate": "0370872023  PHV",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-1062_jpg.rf.1b0ef044e7fbd35578e37870c1521d5e.jpg",
+        "license_plate": "0370822023  THW?",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-1063_jpg.rf.e0b45a97f4fdc365b3259788dfd1661d.jpg",
+        "license_plate": "03708/2023 , PHUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-1078_jpg.rf.ec20b4ddd36774b4f581bdb0b82116b1.jpg",
+        "license_plate": "0370872023 . PHU'",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 4
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-117_jpg.rf.573ddf816169d7d86a66fc841b0715dc.jpg",
+        "license_plate": "03708/2023_THVI",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-120_jpg.rf.9a49565b830a15d0885c5f0c23c2398f.jpg",
+        "license_plate": "0570872023_THU?",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-123_jpg.rf.3f811ce7a47d3992a3c6536789634b71.jpg",
+        "license_plate": "0370872023_THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-125_jpg.rf.45f08786160a08d21874fabca3f5b55f.jpg",
+        "license_plate": "03/0872023_THU",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-130_jpg.rf.59c12bfccd1c4964a5007144cd5c643b.jpg",
+        "license_plate": "03708/2023_THU'",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-135_jpg.rf.674add97a1c814ac28887d6ef8dc093d.jpg",
+        "license_plate": "03708/2023_ THU",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-144_jpg.rf.48e5c31eab57c3a76c2ba1a827e17929.jpg",
+        "license_plate": "0370872023_ THV",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-145_jpg.rf.b96d5c9d1def9b29e51ab961c02065a0.jpg",
+        "license_plate": "0370872023_ THVS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-147_jpg.rf.f43e09eacd758473b6f63a683f337d07.jpg",
+        "license_plate": "0370872023_ THV",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-148_jpg.rf.a4b069c24776123651f17faeabc50d22.jpg",
+        "license_plate": "0370872023_ THUs",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-149_jpg.rf.8f8a694d6153c1d0f16c4c0f30b18a9a.jpg",
+        "license_plate": "0570872023 _ THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-151_jpg.rf.f404615cf9eef65c3f5b91e5b57c3ec3.jpg",
+        "license_plate": "0370872023 _ THV?",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-161_jpg.rf.5ba7597746c06291442509edcc25245e.jpg",
+        "license_plate": "0570872023_ THVI",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-168_jpg.rf.c62b3722f4404d139a41cb6dad379e1d.jpg",
+        "license_plate": "0370872023_ THV",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-185_jpg.rf.2376ac5f0387b332918dc98dfdadf9f4.jpg",
+        "license_plate": "03/0872023_ThUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-187_jpg.rf.caea964690574f02694b5a13e639a9c4.jpg",
+        "license_plate": "03708/2023_ THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-189_jpg.rf.04f11aa67e8818610fae26a0bdfc6824.jpg",
+        "license_plate": "03708/2023_ THUI",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-191_jpg.rf.8e89d91eddccbdd12fe5a66546d9a233.jpg",
+        "license_plate": "0370872023_ THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-192_jpg.rf.0fccbb1ff505bac5587e8f5a0fd2d92f.jpg",
+        "license_plate": "03708/2023_THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-195_jpg.rf.238a9179177473b63062fee748fdda12.jpg",
+        "license_plate": "03/08/2023_THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-201_jpg.rf.f92f9d16a078ad12ab2f0b3ca3e0ac65.jpg",
+        "license_plate": "03708/2023_ THNS",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-203_jpg.rf.7e33256959643a7f8efd97ddac17aca4.jpg",
+        "license_plate": "03708/2023_ThU\"",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-206_jpg.rf.98b385d0dd46a70da0585066990c17dc.jpg",
+        "license_plate": "0370872023_ THUS",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-209_jpg.rf.5011655dd5e113afad7df671ad85edff.jpg",
+        "license_plate": "0370872023_ THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-20_jpg.rf.0de9620f6103f6c92f2ab3eb1eee8e45.jpg",
+        "license_plate": "03/0872023_THS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-210_jpg.rf.5bea749eb50cc6362f3087268850c7d7.jpg",
+        "license_plate": "0370872023_ THIC",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-211_jpg.rf.146293ee12fde8903145033e438f5a17.jpg",
+        "license_plate": "0370872023_ THI",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-214_jpg.rf.4f8fd8527e45455ebc101ad306b6895a.jpg",
+        "license_plate": "0370872023_THS",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 4
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-215_jpg.rf.d2d21cdc4bd907040404a057ec27c8b4.jpg",
+        "license_plate": "0370872023_THUS",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-219_jpg.rf.54c37d567d48d8ddf180035ddaf11948.jpg",
+        "license_plate": "0370872023.THS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-21_jpg.rf.a5cea6a3609e0c5079de299b25b3daf1.jpg",
+        "license_plate": "03/0872023_ThU\"",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-225_jpg.rf.fd26684e111557297772f8ba282cbc87.jpg",
+        "license_plate": "0370872023THU\"14369 :4",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-229_jpg.rf.1fdc555a68c556e891d3389fe5342073.jpg",
+        "license_plate": "03708/2023,THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-235_jpg.rf.923acd05af1d31a1c31b3a22801ee6dd.jpg",
+        "license_plate": "03/0872023 THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-240_jpg.rf.3d1fee9e1ca458e9d2c86cd555a565ba.jpg",
+        "license_plate": "03708/2023 THU\"",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-242_jpg.rf.167035cfa8b585c8732795afb9ef43bd.jpg",
+        "license_plate": "03/0872023 THUt",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-250_jpg.rf.b56c4a89841a89302381913a445ba423.jpg",
+        "license_plate": "03708/2023_THU\"49: 0: [",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-253_jpg.rf.63b4efdfddff1bd8dbad6f9db8105675.jpg",
+        "license_plate": "03/08/2023_ THU\"",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-260_jpg.rf.69b169744dba4e5718ecc16fe5c5de14.jpg",
+        "license_plate": "0370872023_ THU'",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-265_jpg.rf.177c91e02f0d09e3bd0abf9200db4ff9.jpg",
+        "license_plate": "0370872023_ THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-276_jpg.rf.15beaf76553a9fd19d4e6805ef8eb082.jpg",
+        "license_plate": "0370872023 THU\"",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-281_jpg.rf.da394027b717979e8aed8ef4c3fcc30b.jpg",
+        "license_plate": "0370872023 .THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-284_jpg.rf.8187efb7728ed051c327a0f29ccdaf3b.jpg",
+        "license_plate": "03708/2023 . THUt",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-285_jpg.rf.dc620046ba98cdbf0ae324e49a549f3f.jpg",
+        "license_plate": "03/0822023_ THUI",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-286_jpg.rf.d26719e342318a1debc12aac13aca1fa.jpg",
+        "license_plate": "03708/2023 _ THU\"",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-288_jpg.rf.3dfa36ac7d60e6143fb57792529094f6.jpg",
+        "license_plate": "03708/2023.THU'",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-289_jpg.rf.b71ff7916299b9acaa4ea94b69c24e9d.jpg",
+        "license_plate": "0370822023_THU'",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-290_jpg.rf.1f799644116681a91b56f9b9487ce3d4.jpg",
+        "license_plate": "0370872023_ THUt",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-293_jpg.rf.c1e635fe1bd12f24a0e2b610af2a6bd1.jpg",
+        "license_plate": "03/0872023_ THUT",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-296_jpg.rf.7cc498743bc4555f1dcfe4a9451e261a.jpg",
+        "license_plate": "0370872023_ THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-301_jpg.rf.a4b69ccf009483bea36ed14d7652e6c0.jpg",
+        "license_plate": "0370872023_THUT",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-304_jpg.rf.3493ce2eb7de02cb85d7e221bb6b7944.jpg",
+        "license_plate": "03/0872023_THUS",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-305_jpg.rf.fdce71c49c220d277e033e426b9fc429.jpg",
+        "license_plate": "0370872023.ThUt",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-306_jpg.rf.13c0603ab0ba0971c327e99f23083368.jpg",
+        "license_plate": "03/0872023.ThU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-30_jpg.rf.4e44fd578be4c81e8b8f96047e47a358.jpg",
+        "license_plate": "03708/2023_THU'",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-315_jpg.rf.f890591e832946c376d46872e25f5285.jpg",
+        "license_plate": "0370872023. THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-316_jpg.rf.fc3481a66ba56717457ef474c662e48b.jpg",
+        "license_plate": "0370872023_ THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-345_jpg.rf.6605ce6ff284a2537a2183b4fa9c1730.jpg",
+        "license_plate": "0370872023 _ THDs",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-346_jpg.rf.cafdcf188742544da57e29851a443fa0.jpg",
+        "license_plate": "0370872023 _ ThUI",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-347_jpg.rf.8e6e70fe6d5ff5250607a750757506ea.jpg",
+        "license_plate": "0370872023  THUS",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-350_jpg.rf.2181322caa347523be503233557ea06f.jpg",
+        "license_plate": "0370872023   THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-357_jpg.rf.26bcbf2a73403bd9ddf15ead27d8f6d2.jpg",
+        "license_plate": "0370872023.THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-358_jpg.rf.7fee0a748f775bee82c925be1ae8a98e.jpg",
+        "license_plate": "0370872023_ THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-35_jpg.rf.6dd039d2c0dca5236405a23953f64e1e.jpg",
+        "license_plate": "03/08/2023_ THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-368_jpg.rf.30bf570bb94c1fe5b9fb63502bb976bb.jpg",
+        "license_plate": "0370872023.THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-371_jpg.rf.35318ab1deb03c1a94960d7387bb1856.jpg",
+        "license_plate": "03708/2023 . THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-3_jpg.rf.0734b4a71d538b877be8dd70ce366d4e.jpg",
+        "license_plate": "03708/2023_Thb' 1746: 05",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-403_jpg.rf.42347ebc8465090065120ebca7fcac83.jpg",
+        "license_plate": "03708/2023_ THW",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-408_jpg.rf.94d846396ea82a50ddc37a0c39972ada.jpg",
+        "license_plate": "0370872023 . THW",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-411_jpg.rf.a875aca5bc862350862399dc50a22f87.jpg",
+        "license_plate": "03/0872023_ THUI",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-418_jpg.rf.3417a1cf3318f49de495d0455599f908.jpg",
+        "license_plate": "03708/2023_ THWT",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-41_jpg.rf.b6d239cd5c5e7cb9776652c5e138bfc9.jpg",
+        "license_plate": "03/08/2023_ThUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-422_jpg.rf.98037d74e3a2c4deda64b16bb13c3e07.jpg",
+        "license_plate": "0370872023 THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-42_jpg.rf.18b518eb5cb68cd3c080b7a79b627116.jpg",
+        "license_plate": "03/0872023_THU\"",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-432_jpg.rf.b0d8b2fac4a44019051ff8413c6301e5.jpg",
+        "license_plate": "03/0872023_ THuS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-439_jpg.rf.64677134b83900affbd10e83975df135.jpg",
+        "license_plate": "0370872023 . THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-440_jpg.rf.fcca02a6daa52de831970337548584d4.jpg",
+        "license_plate": "0370872023 . THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 4
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-441_jpg.rf.fa5999d64b3d45188d47dedabb24c441.jpg",
+        "license_plate": "0370872023 _ THUt",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-447_jpg.rf.3f4ebb39376bfb9e149883b87d6d179c.jpg",
+        "license_plate": "0370872023 _ THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-448_jpg.rf.8656deb6fd1ae3f85981977af879fcac.jpg",
+        "license_plate": "0370872023_ THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-456_jpg.rf.daa9d0f10de55e1843cdbf0f36bfa435.jpg",
+        "license_plate": "03/0872023 _ THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-458_jpg.rf.35503975a462b6f6a3e68c16d5a1cf2c.jpg",
+        "license_plate": "0370872023 _ THUT",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-459_jpg.rf.bc5fc6285d535d75135128ed2bbab668.jpg",
+        "license_plate": "0370872023 . THU~",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-461_jpg.rf.51a0e338422e30b5db9a26bc66d99d81.jpg",
+        "license_plate": "0370872023_ THUI",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-476_jpg.rf.743a353c525fae589aa08ae721a25006.jpg",
+        "license_plate": "0370872023_ THA",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-485_jpg.rf.0518bd4b4eb5f64f75425406d61adbfe.jpg",
+        "license_plate": "0570872023_ THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-487_jpg.rf.57173c1f57c140ef249f20bbe492142c.jpg",
+        "license_plate": "0570872023_ THV",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-509_jpg.rf.d181ac2b28207f560a28cae0a6284b82.jpg",
+        "license_plate": "0370872023_ THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-513_jpg.rf.1fcb1b78f8c1dd2dfaa1cea0d931f7e2.jpg",
+        "license_plate": "0370872023_ THVI",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-514_jpg.rf.9476e78a746fdf99a2099d7536804a57.jpg",
+        "license_plate": "0370872023 _ THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 4
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-516_jpg.rf.a2e69eca0cb386ab08d1ec91d52cc570.jpg",
+        "license_plate": "0370872023_ THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-519_jpg.rf.b15232816bea52c5e31112d983e96096.jpg",
+        "license_plate": "0370872023_ THUL",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-53_jpg.rf.590980cebddb80737cee6f2d89349c27.jpg",
+        "license_plate": "03/08/2023 . THU'",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-542_jpg.rf.d41a1ed2886b8043e1a5f869639e35b2.jpg",
+        "license_plate": "0370872023. THL:",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-543_jpg.rf.74f245afc2c1bddc18b1381f44097de4.jpg",
+        "license_plate": "03708/2023. THU",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-54_jpg.rf.ba60f507e8eb99104acd8c1ccfa62bdf.jpg",
+        "license_plate": "03/08/2023, THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-551_jpg.rf.645e0ea2b6b7e7c818048b8c0d4e1a91.jpg",
+        "license_plate": "03708/2023-THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-568_jpg.rf.55e880ed5931f7cc206c4b86eb517ae7.jpg",
+        "license_plate": "03708/2023 . THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-569_jpg.rf.d5b3dddce7747c47ce5e436ee2e6fd1d.jpg",
+        "license_plate": "0370872023_ THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-574_jpg.rf.2a07f1fcd8f3e3b3cd746bf35e298573.jpg",
+        "license_plate": "03/0872023 _ PHUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-584_jpg.rf.41f158cd8568415a3c658c41a71e2c97.jpg",
+        "license_plate": "0370872023_ ThU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-596_jpg.rf.f7c25bc9a3dea953a230d3756538f684.jpg",
+        "license_plate": "03708/2023_THUI",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-602_jpg.rf.9b531ac2815e50dc60b9a7313ad929a9.jpg",
+        "license_plate": "0370872023_THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-607_jpg.rf.d8751988aea95a1080a7104fce792bf8.jpg",
+        "license_plate": "0370872023_ THUT",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-612_jpg.rf.4687d0939df8ef36ef03b6551ffa2ce8.jpg",
+        "license_plate": "0370872023_ THUI",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-617_jpg.rf.988d710a7d6364dd6784ad2519afba16.jpg",
+        "license_plate": "0370872023_THL",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-61_jpg.rf.e92faed9a2c0a2f5ecb8c3036d239472.jpg",
+        "license_plate": "03/0872023_ ThU;",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-627_jpg.rf.17c13e7eece1408864601fbd26d0f860.jpg",
+        "license_plate": "0370872023_THI",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-634_jpg.rf.5fbff7cacf00d619d8fadd8e1f2e5965.jpg",
+        "license_plate": "0370872023_ THUS",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-635_jpg.rf.c80ef9b9f30e93024b65b6733d6ec07a.jpg",
+        "license_plate": "0370872023 THU\"",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-644_jpg.rf.f976cb11ecd74b9fe658dacb25ec9a6f.jpg",
+        "license_plate": "0370872023_ ThUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-649_jpg.rf.ab7cd57edc76f2f939fab20ef95839ef.jpg",
+        "license_plate": "03/0872023   FHUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-64_jpg.rf.834f454cb2f5b020d1f640ab2058d3f0.jpg",
+        "license_plate": "05/0872023 _ THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-651_jpg.rf.4a408498d4117811a54f75f4f55cf16b.jpg",
+        "license_plate": "0370872023  PHU;",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-658_jpg.rf.72d72fb01e04a733a12f5600ccf49389.jpg",
+        "license_plate": "0370872023_ THU",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-660_jpg.rf.cdfec46532b99b9a03ad85228d92ecb6.jpg",
+        "license_plate": "0370872023_ PHIE",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-662_jpg.rf.b3891b34a81166e7f42f2d7e89a1b493.jpg",
+        "license_plate": "03708/2023_FHL",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-676_jpg.rf.d9f54a4a7f5c48a93ad69bbbf0fff8b8.jpg",
+        "license_plate": "0370872023 , PHUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-683_jpg.rf.045990cd600aba02bbb7238e6e8b85be.jpg",
+        "license_plate": "0370872023 , THU:",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-684_jpg.rf.f2b34eff82a21680b95f5bae5e91e225.jpg",
+        "license_plate": "03708/2023 THL",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-68_jpg.rf.1f16cceb047cfc6ec3108b0e39da2fc5.jpg",
+        "license_plate": "03/0872023_THUS",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-690_jpg.rf.5402ab337625b837ebc90bad4da1aac2.jpg",
+        "license_plate": "03708/2023,THUs",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-693_jpg.rf.c8456082279705a467b212d43ae3de36.jpg",
+        "license_plate": "0370872023 . THUs",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-6_jpg.rf.1f5cb073b0dde8a9512b11ce34c7158f.jpg",
+        "license_plate": "0370872023 _ THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-722_jpg.rf.0c856596697914c56f3763aac858a3aa.jpg",
+        "license_plate": "05/0822023.THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-732_jpg.rf.236b53877d7272a4c04d765390f9d059.jpg",
+        "license_plate": "0370872023,THU 14708:14",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-759_jpg.rf.b4e85ca26b7d2efd32f53e63f9cbbaba.jpg",
+        "license_plate": "03/08/2023 THU",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-75_jpg.rf.5582b2ac3735e59e904335bc76828051.jpg",
+        "license_plate": "0570872023_THDS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-767_jpg.rf.4f4101392ee1bfcb5c082384fa319712.jpg",
+        "license_plate": "03/0872023  THU'",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-76_jpg.rf.cfbc3134ddad46acf4b3194c1586384c.jpg",
+        "license_plate": "0570872023_ThUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-778_jpg.rf.1418087c4c41b6d6f36e76ed4cd3c1fc.jpg",
+        "license_plate": "0370872023_ PHUI",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-788_jpg.rf.88bca65a6634ea38461e1d7beb3eb94d.jpg",
+        "license_plate": "0370872023_THUT 1",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-796_jpg.rf.87bf6cd8facb266d667264ba7ff2a063.jpg",
+        "license_plate": "0370872023_ THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-798_jpg.rf.3def31f4e59fbccf0973d4492ea3f714.jpg",
+        "license_plate": "0370872023. PHD",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-7_jpg.rf.5a2da79e755f58eb7816a46d76f4bc12.jpg",
+        "license_plate": "03708/2023_ THUT",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-805_jpg.rf.76f31cb730fab7e43a3a19a816956644.jpg",
+        "license_plate": "0370872023_ FHUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-806_jpg.rf.a8b2272cf93820736cce239e469b9685.jpg",
+        "license_plate": "0370822023_ FPHUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-810_jpg.rf.89d94f3481118b76e7d464729cd39077.jpg",
+        "license_plate": "0370822023   PHW",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-811_jpg.rf.2e5e91d55300cad7a81daa97211b20fe.jpg",
+        "license_plate": "037/0872023  PHUI",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-818_jpg.rf.d59302af54badb47ec66671838183537.jpg",
+        "license_plate": "03/0872023_PHUI",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-821_jpg.rf.245aac5a25c22a59109ea2435f386643.jpg",
+        "license_plate": "0370872023  PHUC",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-824_jpg.rf.423dfcfc810bc8abb9702d1e2f0cf1d1.jpg",
+        "license_plate": "0370872023  PHNI",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-828_jpg.rf.febc0636d996183e989eb7b06f3ebf11.jpg",
+        "license_plate": "03/0872023  'PHUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-837_jpg.rf.a61a9cfadf50076b5187932132aa110c.jpg",
+        "license_plate": "0370872023   PHVS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-852_jpg.rf.e8b4f08698a824f1e2b2b14e8f6cc55a.jpg",
+        "license_plate": "0370822023   PHIG",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-853_jpg.rf.06895d78938070f78cc3ad82be172a4d.jpg",
+        "license_plate": "0370822023   PHVS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-864_jpg.rf.0430c431c3d561ca0001f83acb7d7d65.jpg",
+        "license_plate": "0370822023 THU\"T81 0:26",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-876_jpg.rf.c67684c606fc6812493f8b5e370d322e.jpg",
+        "license_plate": "0370872023   THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-882_jpg.rf.aca9989e3bef63cb34a4244a74d570d4.jpg",
+        "license_plate": "0370872023 THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-884_jpg.rf.d617bdfcda31c5d2086076f739bdeb06.jpg",
+        "license_plate": "0370872023 , THD",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-890_jpg.rf.889120798ccd7006abac287a8a65c43f.jpg",
+        "license_plate": "0370872023 THDt",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-891_jpg.rf.e4f328fb393d467206ed3188013b3be9.jpg",
+        "license_plate": "0370872023_PHU;",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-893_jpg.rf.6156a9135c7240bf17cd66cc3eb94b07.jpg",
+        "license_plate": "0370872023 THU",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-898_jpg.rf.1d12c6272805325c48da808e48c48705.jpg",
+        "license_plate": "03/0872023 . THU;",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-930_jpg.rf.066c06a8e9baf675043217645d25e68a.jpg",
+        "license_plate": "0370822023. PHi",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 8
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-932_jpg.rf.465cdafb6d8d66ab1ffe4577ca6320ec.jpg",
+        "license_plate": "0370822023, THUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-937_jpg.rf.271d5a2f5a3e477139315a80847963ea.jpg",
+        "license_plate": "03/0872023_THD;",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-938_jpg.rf.bda2a9c0b27ec790f0da9caf6d1a57b6.jpg",
+        "license_plate": "0370872023 THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-93_jpg.rf.1bfb016b993e00a13ccf9a512f2a7d7a.jpg",
+        "license_plate": "03/0872023_ THU",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-944_jpg.rf.1d784e30ed7afb51b25edd5d66703df2.jpg",
+        "license_plate": "05/0872023 PHU",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-948_jpg.rf.f46468be8352b96adbdac6b0fb138ffc.jpg",
+        "license_plate": "03/0822023 , FHUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-950_jpg.rf.fe62e35c2d1e226a17ee4b1b2a2efe5b.jpg",
+        "license_plate": "0370822023_ THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-956_jpg.rf.e2cd11b2b5dd9cc9a0d4317cafee6a4f.jpg",
+        "license_plate": "03/0872023.THU H9",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-964_jpg.rf.a02d3bbef837aef586a75bd5105e499d.jpg",
+        "license_plate": "03/08/2023. THU\"",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_2_mp4-966_jpg.rf.0199df73e3e4bb3b7ccb2002b5d1e5d8.jpg",
+        "license_plate": "0370822023. THU'",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_5_mp4-105_jpg.rf.c328878d3239622be70b63d831c100ce.jpg",
+        "license_plate": "0370822023.PhU;",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_5_mp4-11_jpg.rf.cb8a858258221a5cfc7e76fcfd881be1.jpg",
+        "license_plate": "0370822023_PHU\"",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_5_mp4-14_jpg.rf.518b5b6515e972da957125746cc37d0c.jpg",
+        "license_plate": "03/0822023 _ PHU;",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_5_mp4-1_jpg.rf.9826c917832ef6444a175837d1d087fe.jpg",
+        "license_plate": "03/08220235 THU",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_5_mp4-26_jpg.rf.69b301c9df597e5adfa44c600a72b58e.jpg",
+        "license_plate": "03708/2023 FHU 10 ` 3:01",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_5_mp4-29_jpg.rf.e42ac85ed036129bde7067265d4dc59e.jpg",
+        "license_plate": "0370822023_PHu;",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_5_mp4-32_jpg.rf.059d2c3bad920c8277def9d3114cf935.jpg",
+        "license_plate": "03708/2023_Phu:",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_5_mp4-42_jpg.rf.29a578bedf7e6e1a0d5631d5f3eb1e5a.jpg",
+        "license_plate": "03708/2023_PhU:",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_5_mp4-47_jpg.rf.add95491fb67e0aa8a908fc238718b3a.jpg",
+        "license_plate": "03708/202 3sPHus",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_5_mp4-55_jpg.rf.6d42a55bad41064bc4ea7346c5f25ec0.jpg",
+        "license_plate": "03708/2023 Phu i043:36",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_5_mp4-57_jpg.rf.19f6a780ce46b2adde6dccfb1fcb8fbb.jpg",
+        "license_plate": "03708/2023 _ PHUS",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_5_mp4-60_jpg.rf.416a5f8b5155572bb430bb66d44b48dc.jpg",
+        "license_plate": "03/0822023_ F ,",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_5_mp4-62_jpg.rf.7850487462d8a2e57b01db88ba656fed.jpg",
+        "license_plate": "03/08/2023 THU'10_ 3:4",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_5_mp4-8_jpg.rf.cc382f34d5dbda068cd03bbc8c5d28ee.jpg",
+        "license_plate": "03/08/2023_ THt;",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "my-videos-carltonbiotec1-gmail_com-Gmail_5_mp4-90_jpg.rf.bb3caa8d2e23f65217b2e2186f43203c.jpg",
+        "license_plate": "0370822023,Phu ]03",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 6
+        }
+    },
+    {
+        "image": "output000033_png.rf.19afc6390f734ff87548ada1e32ef7ad.jpg",
+        "license_plate": "9/0121,9 1:49..4",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000035_png.rf.5b8041e8b1ec440b67654fcee5b888c1.jpg",
+        "license_plate": "9/01/21,9 11:49..4",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000053_png.rf.0f0f14fa3f05b0ef6990af3a8b209964.jpg",
+        "license_plate": "H17e3 FE091",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000062_png.rf.bd51062d39cbf1551e83771450d308c8.jpg",
+        "license_plate": "JICIL",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000073_png.rf.8aa90e2c8ec94ec0c5094a319ffb816e.jpg",
+        "license_plate": "JICIL",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000074_png.rf.5ec468f3f9aa0c579e7a1b4ba7fc3036.jpg",
+        "license_plate": "JICIL",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000092_png.rf.d1b1f146174ab307e80a61ce3be264d3.jpg",
+        "license_plate": "SICiL",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "output000096_png.rf.37b1af58cac50144b1350345001e4b7c.jpg",
+        "license_plate": "SICiL",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000097_png.rf.8edf5759b40ea47aecd04ceebe645dff.jpg",
+        "license_plate": "SICiL",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000103_png.rf.a989e8e6eb7f68048b674ba813767505.jpg",
+        "license_plate": "1E627 VS1E$1n",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000105_png.rf.df5f79178211ccbae45e77495e48f0a9.jpg",
+        "license_plate": "947e5 'E0l1",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000115_png.rf.56d9db7626dd2aa65e90391d2799c91c.jpg",
+        "license_plate": "947e5 'E0l1",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000117_png.rf.0255ab4c5cee1d5ce56b194c7735ae14.jpg",
+        "license_plate": "947e5 'E0l1",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000118_png.rf.fb795fc5b390ccc9682f55635b4b194a.jpg",
+        "license_plate": "917e}",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000120_png.rf.6a870dd0644bd3b00da7af7fa94bb9bb.jpg",
+        "license_plate": "917e}",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000121_png.rf.b1356f1a23200dce6f4cd5ad44b722f1.jpg",
+        "license_plate": "917e}",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000129_png.rf.ec880cd9d78576ca0e50f09da6be9c24.jpg",
+        "license_plate": "917es",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000133_png.rf.e0ad5d6ba856341ee6e4172b47824285.jpg",
+        "license_plate": "SIcil",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000138_png.rf.9d409861f532ae0e52c780f31f6ad56c.jpg",
+        "license_plate": "SIcil",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000140_png.rf.82f91e5d4723e6bdd8f0a1b113aa056b.jpg",
+        "license_plate": "SIcil",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000191_png.rf.b8050fe8f257af4be56382450a25aaac.jpg",
+        "license_plate": "[9/0v*19 10.10. [",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000193_png.rf.e2f5adab4157ae7ef384e086c7a0d3ec.jpg",
+        "license_plate": "[9/0*19 10.10. p",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000194_png.rf.a11db77e5f3d388c24925b9a40406b95.jpg",
+        "license_plate": "[9/0v*19 10.10. p",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000197_png.rf.a642c3f2cf89c73cec713727fd98f34f.jpg",
+        "license_plate": "[9/0*19 [0.10. p",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "output000216_png.rf.3600ae74dc5c2eb1da520e911692a423.jpg",
+        "license_plate": "I9/0/2.9 10_0.4",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000219_png.rf.fd7ca7277373b5a88d85d07a059f0241.jpg",
+        "license_plate": "[9/0v*19 10..0.41",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000224_png.rf.41e76dd781d1bb20536de6c0bfce202e.jpg",
+        "license_plate": "69/04v,*19 10..0.41",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000230_png.rf.e56108c0f353cc9afa02e677853ae403.jpg",
+        "license_plate": "I9/08 *19 10:.0.44",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000244_png.rf.b21e8c009bfcbd4753864de2db624062.jpg",
+        "license_plate": "[9/0/519 10.10 41",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000250_png.rf.48cb8c8f399609b7a208861beab78ce1.jpg",
+        "license_plate": "[9/04/*19 10.10.45",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000255_png.rf.8a56d936738afe761d8593a76e5bd8b1.jpg",
+        "license_plate": "[9/0/519 10.10.45",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000258_png.rf.a37e39dbe66be16067a246db1f54db47.jpg",
+        "license_plate": "[9/0/w19 10.10.45",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000261_png.rf.c91a0864ea0dc61adaf2e237227c1aca.jpg",
+        "license_plate": "\"9/08,*1019 10:10. 45",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000273_png.rf.187e38597b7e2d03efd7a5e1c666c81e.jpg",
+        "license_plate": "JIGL",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000274_png.rf.27e34bd57a4760b0f28b8da3350e3772.jpg",
+        "license_plate": "[9704v2019 10:.10. 13",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000276_png.rf.0d5b7f0f1f6b73cce1a5f85d09d176fa.jpg",
+        "license_plate": "[9704v2019 10.10. 1",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000278_png.rf.9cf5a97ea1d13b7da4b76ae6b973adfc.jpg",
+        "license_plate": "[9704v2019 10..10.46",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "output000309_png.rf.9da5e2ea5e78eaed068987ecd2967ffb.jpg",
+        "license_plate": "Ma7c) TEo1",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video1_mp4-0_jpg.rf.6049315e4609708e0c8a64ef11695229.jpg",
+        "license_plate": "L9/00 /2019 10.0.24",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video1_mp4-10_jpg.rf.86fa1a7a7023cc5542994e146c4dc3d1.jpg",
+        "license_plate": "[9/0v2019 10,08.2",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video1_mp4-13_jpg.rf.4898dfea5320feb541c9ad118edc4807.jpg",
+        "license_plate": "JIgL",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video1_mp4-23_jpg.rf.55e288eaec851164caf382442f96d740.jpg",
+        "license_plate": "JIcL",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video1_mp4-27_jpg.rf.6a638d9d2162a9b8f43eabada905c47c.jpg",
+        "license_plate": "SIgL",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video1_mp4-30_jpg.rf.950d24c1e90cf65f82c91592a2217f1b.jpg",
+        "license_plate": "69/04 *19 10.08.31",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video1_mp4-33_jpg.rf.b005553e3ff6bc2338250020425cc0d5.jpg",
+        "license_plate": "69/0v2019 10.08.31",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video1_mp4-38_jpg.rf.d0d81f7fee650aebe4842141dc5b2584.jpg",
+        "license_plate": "I9/04 2019 10.08.12",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video1_mp4-39_jpg.rf.d8fb7db33cd16d6f89ae2a6e85b78b85.jpg",
+        "license_plate": "I9/04 2019 10.0.1",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video1_mp4-40_jpg.rf.4e83d92ec84292de5e23187e38b8f85e.jpg",
+        "license_plate": "I9/04 2019 10.0.12",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video1_mp4-41_jpg.rf.dd6b06f8968f98d94f2b39cb735397bf.jpg",
+        "license_plate": "I9/02 2019 10.08.12",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video1_mp4-43_jpg.rf.59e44679b68a4875cfb7d87d491aaacd.jpg",
+        "license_plate": "JIGL",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video1_mp4-5_jpg.rf.58b5ee62bb306d2605cffc7a4d1dd04e.jpg",
+        "license_plate": "L9/00/2019 10.0.4",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video1_mp4-72_jpg.rf.c0f98f3a84e142f7dfaf920885c8e65a.jpg",
+        "license_plate": "69/02v2019 10.0.3",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video1_mp4-7_jpg.rf.a04f6d1172d640ec49af7aa683526b24.jpg",
+        "license_plate": "[9/02v2019 [0.@.2",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video1_mp4-81_jpg.rf.93f1c5d3ff125868c00491c8722c8b02.jpg",
+        "license_plate": "19/03*2019 10.0.35",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video1_mp4-86_jpg.rf.82d379158f5e60c1e2b99eea3e0a7a6e.jpg",
+        "license_plate": "Jicl",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video24_mp4-12_jpg.rf.8beb6b466bee489b19918f5844199fa0.jpg",
+        "license_plate": "(80,9 I0.09.07",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video24_mp4-17_jpg.rf.188d3859cb55721d482ea2f8be9286e1.jpg",
+        "license_plate": "Iqhuv20.9 '0.u0 @",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video24_mp4-23_jpg.rf.27120efa3c61285dbbd93865832145a3.jpg",
+        "license_plate": "Idl20.9 '0.69 6",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video24_mp4-5_jpg.rf.4d8e91c0329762b2696eac7a1daf64b8.jpg",
+        "license_plate": "L9/0920.9 I0:60.07",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video26_mp4-102_jpg.rf.09cac1b402ce06049ad3e8d6a17d6464.jpg",
+        "license_plate": "sig L",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video26_mp4-103_jpg.rf.d9a7dce531939378eeb63c0533c80ebe.jpg",
+        "license_plate": "sig L",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video26_mp4-105_jpg.rf.016ae43e7037f2f576ffb46d97a6f533.jpg",
+        "license_plate": "sig L",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video26_mp4-106_jpg.rf.de41a5483205021fb9cddbf8e0897149.jpg",
+        "license_plate": "sig L",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video26_mp4-109_jpg.rf.5623bd40882557fa3de860086a4e5558.jpg",
+        "license_plate": "sig L",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video26_mp4-118_jpg.rf.67f4789a04afc9c9a1e324c43e8aae8e.jpg",
+        "license_plate": "I9/08 2019 10:10.J1",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "video26_mp4-120_jpg.rf.581ed2427cfafef2f9aa64b1ebdea1ba.jpg",
+        "license_plate": "I9/00/2019 10:10.J3",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video26_mp4-126_jpg.rf.82f9e00a122309662e2667ea8b4eaede.jpg",
+        "license_plate": "(904219 10.10.37",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video26_mp4-128_jpg.rf.4001b7f9d85fe42c4c77edb861c53dc0.jpg",
+        "license_plate": "[9704v219 10.10.337",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video26_mp4-137_jpg.rf.c92fd532cbfddcfa796a5a055701fb8a.jpg",
+        "license_plate": "[9/04v*19 10.10.32",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video26_mp4-138_jpg.rf.d3dacbfe0d66ea7313030d42894ab4bd.jpg",
+        "license_plate": "69/04v,219 10.10.32",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video26_mp4-13_jpg.rf.cd9697456ce3c88b8ec7b5c4ccf91c6b.jpg",
+        "license_plate": "[9/03219 10.10.24",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "video26_mp4-143_jpg.rf.8dbcab3de81459fa3e9fde253ad7aea7.jpg",
+        "license_plate": "[9/04v219 10.10.32",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video26_mp4-155_jpg.rf.187b9732e360030e84a2be4e4647a47f.jpg",
+        "license_plate": "I9/08 20.9 10.10.33",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video26_mp4-158_jpg.rf.83868bb68612a685e533d9ba48c83aa7.jpg",
+        "license_plate": "U9/08 /20.9 10.10.32",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video26_mp4-15_jpg.rf.159380862a2842d4d4bbf534d44d83f2.jpg",
+        "license_plate": "69/0219 10.10.24",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video26_mp4-16_jpg.rf.581a114425e746a2a88705d621a6d53c.jpg",
+        "license_plate": "[9704/219 10:10.24",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video26_mp4-21_jpg.rf.9b6b9ddc2713d726a2b52c37c849d269.jpg",
+        "license_plate": "[9/0/219 10:10.2",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "video26_mp4-32_jpg.rf.182fd7b8b94f4cd821d424e792afa6b5.jpg",
+        "license_plate": "L9/03v/2019 10:10.25",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video26_mp4-46_jpg.rf.6c369d84a204bd2d268dd012d7dc6aab.jpg",
+        "license_plate": "[9700v219 10:10.2",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video26_mp4-50_jpg.rf.d63dca9fe857882571baf8090b9aa2ea.jpg",
+        "license_plate": "[973219 10:10.2",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video26_mp4-53_jpg.rf.43b2a3e5976210ea795ce33d9f386940.jpg",
+        "license_plate": "[9/3219 I0:10. z",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "video26_mp4-55_jpg.rf.d49cdf69888363de8c127ccb15884d81.jpg",
+        "license_plate": "I9/219 I0:10 Z",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video26_mp4-61_jpg.rf.2f45b8e87277487ac68bc6972d6db062.jpg",
+        "license_plate": "[9/6 219 I0:10 z",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "video26_mp4-63_jpg.rf.6316247419fcf6358795dba2641859a3.jpg",
+        "license_plate": "I9/0/2019 I0:10. Zi",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "video26_mp4-65_jpg.rf.7dfaa3b7df0bd7cf3434872508ae6004.jpg",
+        "license_plate": "I9/0,2019 I0:40.za",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "video26_mp4-67_jpg.rf.2e2b38f3ee48eff30abe429bc42c9c11.jpg",
+        "license_plate": "[9704v219 J0.10 .2",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video26_mp4-6_jpg.rf.e2c534e2134fbd6c001b9fe1c53c48d1.jpg",
+        "license_plate": "69/03219 10.10.24",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video26_mp4-7_jpg.rf.808edbb48f2b60ba6909bd51ea254e04.jpg",
+        "license_plate": "[9703219 10:10.24",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video26_mp4-83_jpg.rf.33b937d647e60a87fa42da94c802bc54.jpg",
+        "license_plate": "19/02 /*019 10:.0.2",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video26_mp4-84_jpg.rf.6489214a247b80f58a1eb3d39b8dc357.jpg",
+        "license_plate": "19/02 /2019 10:.0.2",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video26_mp4-94_jpg.rf.2a09cfb4718ee7b36ebd028698c558f7.jpg",
+        "license_plate": "[9/00v*19 10.10 .2",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video26_mp4-95_jpg.rf.3956f28e1b25a32bb5ee50b34928ca7e.jpg",
+        "license_plate": "[9/00v*19 10.10 .2",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video26_mp4-9_jpg.rf.67190e76acc414088a71091626fb4439.jpg",
+        "license_plate": "69703219 10.10.24",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "video27_mp4-109_jpg.rf.e8f71ed0cca256bfa9c84f6886c4d6f9.jpg",
+        "license_plate": "[9/0/219 10.10.%",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video27_mp4-110_jpg.rf.f30e59ec627385538f64cfab5ec70a0c.jpg",
+        "license_plate": "69/02/*19 10:10.%0",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video27_mp4-112_jpg.rf.56f0c6a181bf868b8f6e5e1e63462e18.jpg",
+        "license_plate": "69/02v*19 10:10 4p",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video27_mp4-116_jpg.rf.823f77ca3dfe386a95d016e65846e732.jpg",
+        "license_plate": "I9/02/2019 10.10: 4p",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video27_mp4-14_jpg.rf.b2e6dc337146bdf697017e476474ba25.jpg",
+        "license_plate": "I9/08v/*019 10.10.31",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video27_mp4-1_jpg.rf.f185702527cf8ed814675754b2a69666.jpg",
+        "license_plate": "L9/020,9 10.10.0)",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "video27_mp4-20_jpg.rf.351263764c3707935123fc9c39377eca.jpg",
+        "license_plate": "I9/08v2019 10.10.32",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video27_mp4-32_jpg.rf.ffbf84cd9dd863b5db6ff0c8130ebd76.jpg",
+        "license_plate": "I9/02v/20.9 10.10.32",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video27_mp4-3_jpg.rf.61dda67d09748665ce5c83226fc3a0e9.jpg",
+        "license_plate": "L9/0920.9 I0..0.8)",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "video27_mp4-43_jpg.rf.9e30239b8a6939ffdb5e2448a0faf070.jpg",
+        "license_plate": "(9/0/*19 10..0.%4",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "video27_mp4-45_jpg.rf.f2fffbb8de16ceaeaccb140887288e74.jpg",
+        "license_plate": "L9/0/*019 10..0.34",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 6
+        }
+    },
+    {
+        "image": "video27_mp4-52_jpg.rf.d99b81226dc8d5ae1ebe39d1801f6c0e.jpg",
+        "license_plate": "69/0/*19 10.10.35",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 5
+        }
+    },
+    {
+        "image": "video27_mp4-56_jpg.rf.bf58fb071e82f0ae1cbd0ed183419b3d.jpg",
+        "license_plate": "[9/0/*19 10.10.35",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 4
+        }
+    },
+    {
+        "image": "video27_mp4-57_jpg.rf.a67fc6527e20a342eec48c8a0e792154.jpg",
+        "license_plate": "[9/0/*19 10.10.35",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "video27_mp4-59_jpg.rf.5e63f559f9d084448200d3652e9875cc.jpg",
+        "license_plate": "69/0/*19 10.10.35",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 3
+        }
+    },
+    {
+        "image": "video27_mp4-66_jpg.rf.d8628b29acb002241329128c0ffbf9e7.jpg",
+        "license_plate": "[9/04v219 10.10.%",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video27_mp4-72_jpg.rf.c24c3b84e6630df4cf58f09dbc831340.jpg",
+        "license_plate": "[9704/2019 10.10.%",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video27_mp4-73_jpg.rf.e1d65325bfe01eeb44ca2ad8507a35f6.jpg",
+        "license_plate": "[9704v2019 10.10.%",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video27_mp4-79_jpg.rf.62f705fc01f49ea9cd02630b64fb59ef.jpg",
+        "license_plate": "[9704/219 10.10.37",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video27_mp4-7_jpg.rf.bb4486f8f8f4163b16fd137d87b4dd17.jpg",
+        "license_plate": "I9/0/,2019 10.10.33",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video27_mp4-83_jpg.rf.a2603065cd1e83ac9b9f70d937aa1ad0.jpg",
+        "license_plate": "[9703v219 10.10.37",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video27_mp4-92_jpg.rf.bb1f88c0be43bfc829d8913522744b88.jpg",
+        "license_plate": "19/0v20.9 10:10.%",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video27_mp4-96_jpg.rf.8f490cfd42b151e52f09edfe2e52c923.jpg",
+        "license_plate": "L9408 20.9 10:.0.%",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video28_mp4-12_jpg.rf.9de7cdb8fa53ebf6232aada238b49f01.jpg",
+        "license_plate": "[9404v2.9 10.10.3",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video28_mp4-17_jpg.rf.fc0dce28e085a3b4a25c083a691c11bd.jpg",
+        "license_plate": "[9/0v219 10.10.3",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video28_mp4-1_jpg.rf.1f49d2cdacb8eafdb387a256968d5959.jpg",
+        "license_plate": "[9704/219 10.10.%5",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video28_mp4-26_jpg.rf.7ec813f8ba624c25dd2fae9cda5f6a84.jpg",
+        "license_plate": "[9/04v/2019 10.10.47",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 1,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video28_mp4-43_jpg.rf.e3693f3ce9f185dab6845760494030ba.jpg",
+        "license_plate": "I9i6/20.9 10.10 4",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video28_mp4-46_jpg.rf.e67853c4acb64b7ace64acc2952c07c1.jpg",
+        "license_plate": "69/0v/*19 10.10 41",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video28_mp4-48_jpg.rf.8ead23f296df6e5cffbb9e69ea3d5db7.jpg",
+        "license_plate": "L9/08/1019 10..0.44",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video28_mp4-4_jpg.rf.c58664d39a58c279e2fe4afad2fed37a.jpg",
+        "license_plate": "69704/219 10.10.37",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video28_mp4-56_jpg.rf.cc013015ca7c8d6f1b7abc0825af198f.jpg",
+        "license_plate": "[9704v2019 10:10.46",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video28_mp4-8_jpg.rf.73d936a087e7cc34b8cd37795afa2a32.jpg",
+        "license_plate": "L9408/20.9 J0.10.%",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video_mp4-101_jpg.rf.9121d793b6d4261f87b3b142f8562ebc.jpg",
+        "license_plate": "191219 Moz",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video_mp4-102_jpg.rf.4bc605788cd6c6bf58bce59610bfea5b.jpg",
+        "license_plate": "191ni9 Moz",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video_mp4-103_jpg.rf.0483f8ca2719d69d8af97e42603cf2f6.jpg",
+        "license_plate": "191219 Moz",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video_mp4-108_jpg.rf.6fea34695a40493665ce6c87b5e37aea.jpg",
+        "license_plate": "19/00//2019 10.0.2",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video_mp4-10_jpg.rf.21ccfd45967c9fd5496e3c558b8eb063.jpg",
+        "license_plate": "[912019 I0,@419",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video_mp4-115_jpg.rf.1e3916f653113f1dc60f8e47ebc069dd.jpg",
+        "license_plate": "19/00/2019 10.0.3",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video_mp4-117_jpg.rf.10276bb06e862fae6ff57590d68ed134.jpg",
+        "license_plate": "19/03//2019 10.0.3",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video_mp4-118_jpg.rf.695e432049acfb79d959c56c37efb7e5.jpg",
+        "license_plate": "19/03//2019 10.08.3",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video_mp4-18_jpg.rf.86936c9546275d5907966aa2b1f200d3.jpg",
+        "license_plate": "19/00/2019 I0.0.20",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video_mp4-30_jpg.rf.7e36990ffbff9c8f68335999703bd5ac.jpg",
+        "license_plate": "19/08/2019 10.08.21",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video_mp4-31_jpg.rf.c38f4fbff1ad76d4bbfeb0cd20d69c22.jpg",
+        "license_plate": "19/08/2019 10.08.21",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video_mp4-35_jpg.rf.54859d5f5b7c8854b66583ed5a64c13f.jpg",
+        "license_plate": "19/01/2019 10.0.21",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video_mp4-45_jpg.rf.bb0729805af346771f158ae23951d5c5.jpg",
+        "license_plate": "69/04/2019 10.0.2",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video_mp4-4_jpg.rf.c57c854ef201e707f377a030ac721a4c.jpg",
+        "license_plate": "19/00/2019 10.08.19",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video_mp4-50_jpg.rf.a4f42f0edc023e09a7c9272936fef747.jpg",
+        "license_plate": "19j03/219 10.0.2",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video_mp4-56_jpg.rf.57ee51e90b58ab0589dbb41d38b49b21.jpg",
+        "license_plate": "I9j0/2019 10.0.2",
+        "violation": "Triple Riding",
+        "detections": {
+            "motorbike": 1,
+            "person": 3,
+            "helmet": 2,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video_mp4-57_jpg.rf.0ddaab3a65ace6d52f6a222b6b754034.jpg",
+        "license_plate": "I9j0/2019 10.0.2",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video_mp4-6_jpg.rf.fa053bb6fb353919a54402a654c79c9b.jpg",
+        "license_plate": "19/00/2019 10.08:19",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "video_mp4-7_jpg.rf.4a56ed928c875cf5f55fa9384e93eb01.jpg",
+        "license_plate": "19j02019 10.08419",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video_mp4-80_jpg.rf.0eac42b457a985e2ef44616a628179cc.jpg",
+        "license_plate": "19/01/2019 10.08.25",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 1
+        }
+    },
+    {
+        "image": "video_mp4-84_jpg.rf.8c16feadedd4d1bf0336662053e0ff32.jpg",
+        "license_plate": "19/01/2019 10.0.25",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video_mp4-89_jpg.rf.6a24421813ffe88b80f48a58103461ef.jpg",
+        "license_plate": "19/01/2019 10.08.25",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "video_mp4-96_jpg.rf.73d5c940a86d32e20f18d6fde70eddbe.jpg",
+        "license_plate": "191219 Moz",
+        "violation": "Helmet Missing",
+        "detections": {
+            "motorbike": 1,
+            "person": 2,
+            "helmet": 0,
+            "license_plate": 2
+        }
+    },
+    {
+        "image": "WhatsApp-Image-2023-05-31-at-19-18-43-1-_jpeg.rf.e6834080e5c10a1005d594233c14d820.jpg",
+        "license_plate": "Acuvs",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "WhatsApp-Image-2023-05-31-at-19-18-43_jpeg.rf.f62862efb8d31b6f329b320da0516348.jpg",
+        "license_plate": "ISAL",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "WhatsApp-Image-2023-06-01-at-11-16-40_jpeg.rf.60187b6bb09b69a065ff9e350d758fa4.jpg",
+        "license_plate": "License Plate Not Visible",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "WhatsApp-Image-2023-06-01-at-11-30-16_jpeg.rf.292190d1eeb2ac64ad8496998bc02d45.jpg",
+        "license_plate": "#ullerlotkLom ' 226356704)",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "WhatsApp-Image-2023-06-01-at-11-30-19-1-_jpeg.rf.e7fab7fbf9e84459adf85a121b7b6748.jpg",
+        "license_plate": "Hamy",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "WhatsApp-Image-2023-06-01-at-12-02-18-1-_jpeg.rf.1ff57a9f8ff9a19be556bdd72fe91f8b.jpg",
+        "license_plate": "zomato",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "WhatsApp-Image-2023-06-01-at-12-02-54_jpeg.rf.d38a5993ca354ae01bc8fe1eb56379e3.jpg",
+        "license_plate": "'Warl Ieaa Ect",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "WhatsApp-Image-2023-06-01-at-12-02-57_jpeg.rf.3c0465e9f5360aa524dd8397d8858620.jpg",
+        "license_plate": "shutlersluxt {077\" 1991776746",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "WhatsApp-Image-2023-06-01-at-12-02-59-1-_jpeg.rf.b265ac78682ef49e4ba9b2492384efaa.jpg",
+        "license_plate": "shulleritk",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "WhatsApp-Image-2023-06-01-at-12-20-43_jpeg.rf.66a9a9c8e10c9bb61ad43dddfc16ddb4.jpg",
+        "license_plate": "Norlel cuir",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "WhatsApp-Image-2023-06-01-at-12-20-49_jpeg.rf.26d116c717a311a6c3789cb31706d5d7.jpg",
+        "license_plate": "oneindia",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    },
+    {
+        "image": "WhatsApp-Image-2023-06-01-at-12-21-05_jpeg.rf.032d51b49f995810fc349b4291884fa1.jpg",
+        "license_plate": "Awsl",
+        "violation": "No Violation",
+        "detections": {
+            "motorbike": 0,
+            "person": 0,
+            "helmet": 0,
+            "license_plate": 0
+        }
+    }
+]
