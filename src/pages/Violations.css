@@ -1,0 +1,289 @@
+.violations-page {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: calc(100vh - 70px);
+  padding: 40px 0;
+}
+
+.page-title {
+  color: white;
+  font-size: 32px;
+  margin-bottom: 32px;
+  text-align: center;
+}
+
+.error-box {
+  background: #fee;
+  color: #c33;
+  padding: 16px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  border-left: 4px solid #c33;
+}
+
+.loading {
+  text-align: center;
+  padding: 40px;
+  color: white;
+  font-size: 18px;
+}
+
+.no-data {
+  text-align: center;
+  padding: 40px;
+  background: white;
+  border-radius: 12px;
+  color: #999;
+}
+
+.violations-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-bottom: 32px;
+}
+
+.violation-card {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.violation-card:hover {
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+
+.violation-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.violation-info h3 {
+  margin: 0;
+  color: #333;
+  font-size: 18px;
+}
+
+.timestamp {
+  margin: 4px 0 0 0;
+  color: #999;
+  font-size: 13px;
+}
+
+.violation-stats {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.total-violations,
+.vehicle-count,
+.person-count {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 8px 12px;
+  background: #f5f5f5;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.total-violations strong {
+  color: #667eea;
+  font-size: 16px;
+}
+
+.violation-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.badge {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 20px;
+  color: white;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.violation-details {
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid #e0e0e0;
+  background: #f9f9f9;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.violation-details h4 {
+  margin-top: 0;
+  color: #667eea;
+}
+
+.image-preview {
+  margin-bottom: 16px;
+  background: white;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+  text-align: center;
+}
+
+.image-placeholder {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 40px 20px;
+  border-radius: 8px;
+  font-size: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+
+.no-image-msg {
+  font-size: 12px;
+  color: rgba(255,255,255,0.8);
+  margin-top: 12px;
+  border-top: 1px solid rgba(255,255,255,0.3);
+  padding-top: 12px;
+}
+
+.image-preview img {
+  max-width: 100%;
+  max-height: 300px;
+  border-radius: 4px;
+  display: block;
+  margin: 0 auto;
+}
+
+.details-content {
+  font-size: 13px;
+  color: #666;
+  line-height: 1.6;
+}
+
+.details-content p {
+  margin: 8px 0;
+  word-break: break-all;
+}
+
+.detail-section {
+  margin-top: 12px;
+  padding: 12px;
+  background: white;
+  border-radius: 6px;
+  border-left: 3px solid #667eea;
+}
+
+.detail-section pre {
+  background: #f5f5f5;
+  padding: 8px;
+  border-radius: 4px;
+  overflow-x: auto;
+  font-size: 12px;
+  margin: 8px 0 0 0;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  padding: 20px;
+  background: white;
+  border-radius: 12px;
+}
+
+.page-btn {
+  background: #667eea;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.page-btn:hover:not(:disabled) {
+  background: #764ba2;
+  transform: translateY(-2px);
+}
+
+.page-btn:disabled {
+  background: #ccc;
+  cursor: not-allowed;
+}
+
+.page-info {
+  color: #666;
+  font-weight: 600;
+}
+
+.fines-info {
+  background: #fff3cd;
+  padding: 16px;
+  border-radius: 8px;
+  margin: 16px 0;
+  border-left: 4px solid #ff9800;
+}
+
+.fines-info strong {
+  font-weight: 600;
+  color: #333;
+}
+
+.fines-detail {
+  margin-top: 12px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 12px;
+}
+
+.fines-detail p {
+  margin: 8px 0;
+  font-size: 14px;
+  color: #333;
+}
+
+.fine-amount {
+  font-weight: 700;
+  color: #d32f2f;
+}
+
+.pending-amount {
+  font-weight: 700;
+  color: #f57c00;
+}
+
+.paid-amount {
+  font-weight: 700;
+  color: #388e3c;
+}
+
+@media (max-width: 768px) {
+  .violation-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .violation-stats {
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  .page-title {
+    font-size: 24px;
+  }
+}
