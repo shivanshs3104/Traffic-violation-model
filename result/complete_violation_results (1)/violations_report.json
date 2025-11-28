@@ -1,0 +1,3425 @@
+[
+  {
+    "image": "input_images/helmet9_jpg.rf.cbb7a00dd96efc5a6ea3e622ef201c02.jpg",
+    "output": "output_images/helmet9_jpg.rf.cbb7a00dd96efc5a6ea3e622ef201c02.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 0,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 0,
+    "person_count": 0,
+    "timestamp": "2025-11-28 13:24:42"
+  },
+  {
+    "image": "input_images/helmet11_jpg.rf.e85f00dfa5b15abbf92a006cc929cfe0.jpg",
+    "output": "output_images/helmet11_jpg.rf.e85f00dfa5b15abbf92a006cc929cfe0.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 2,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            358,
+            222,
+            817,
+            512
+          ],
+          "rider": 1,
+          "rider_box": [
+            365,
+            63,
+            754,
+            311
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            358,
+            222,
+            817,
+            512
+          ],
+          "generated_plate": "MH68HU5886"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:24:53"
+  },
+  {
+    "image": "input_images/helmet36_jpg.rf.62abf22b9c601845bd5aed01a928d776.jpg",
+    "output": "output_images/helmet36_jpg.rf.62abf22b9c601845bd5aed01a928d776.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 5,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            4,
+            350,
+            266,
+            692
+          ],
+          "rider": 1,
+          "rider_box": [
+            2,
+            22,
+            386,
+            687
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            371,
+            78,
+            605,
+            360
+          ],
+          "generated_plate": "DL23BS7491"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            4,
+            350,
+            266,
+            692
+          ],
+          "generated_plate": "RJ31M7260"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            523,
+            398,
+            821,
+            692
+          ],
+          "generated_plate": "RJ51F4351"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            649,
+            71,
+            683,
+            91
+          ],
+          "generated_plate": "UP06O8209"
+        }
+      ]
+    },
+    "vehicle_count": 6,
+    "person_count": 5,
+    "timestamp": "2025-11-28 13:25:07"
+  },
+  {
+    "image": "input_images/helmet53_jpg.rf.c1496893b65d579eb4756cc7b01ed78e.jpg",
+    "output": "output_images/helmet53_jpg.rf.c1496893b65d579eb4756cc7b01ed78e.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 5,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            607,
+            129,
+            666,
+            186
+          ],
+          "generated_plate": "AP93A4106"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            450,
+            336,
+            616,
+            690
+          ],
+          "generated_plate": "WB84C8612"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            658,
+            113,
+            693,
+            141
+          ],
+          "generated_plate": "HR85K8858"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            576,
+            144,
+            610,
+            173
+          ],
+          "generated_plate": "RJ49C8519"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            618,
+            108,
+            655,
+            133
+          ],
+          "generated_plate": "UP26K6081"
+        }
+      ]
+    },
+    "vehicle_count": 5,
+    "person_count": 5,
+    "timestamp": "2025-11-28 13:25:12"
+  },
+  {
+    "image": "input_images/helmet43_jpg.rf.cafb5a2215cec829e8e0831c1485ae0a.jpg",
+    "output": "output_images/helmet43_jpg.rf.cafb5a2215cec829e8e0831c1485ae0a.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 2,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            634,
+            266,
+            909,
+            692
+          ],
+          "generated_plate": "RJ53PS3877"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            197,
+            301,
+            580,
+            691
+          ],
+          "generated_plate": "HR02TF5759"
+        }
+      ]
+    },
+    "vehicle_count": 2,
+    "person_count": 10,
+    "timestamp": "2025-11-28 13:25:26"
+  },
+  {
+    "image": "input_images/download (2).jpg",
+    "output": "output_images/download (2).jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 3,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            289,
+            231,
+            736,
+            679
+          ],
+          "rider": 1,
+          "rider_box": [
+            286,
+            29,
+            608,
+            537
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            289,
+            231,
+            736,
+            679
+          ],
+          "generated_plate": "MH67QI5895"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            676,
+            180,
+            1099,
+            357
+          ],
+          "generated_plate": "UP81Q8014"
+        }
+      ]
+    },
+    "vehicle_count": 2,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:25:42"
+  },
+  {
+    "image": "input_images/helmet15_jpg.rf.1a7ae1f713142bf17e73784ab7427106.jpg",
+    "output": "output_images/helmet15_jpg.rf.1a7ae1f713142bf17e73784ab7427106.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 17,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            559,
+            181,
+            896,
+            682
+          ],
+          "rider": 2,
+          "rider_box": [
+            818,
+            97,
+            871,
+            188
+          ]
+        },
+        {
+          "bbox": [
+            559,
+            181,
+            896,
+            682
+          ],
+          "rider": 3,
+          "rider_box": [
+            825,
+            91,
+            971,
+            214
+          ]
+        },
+        {
+          "bbox": [
+            559,
+            181,
+            896,
+            682
+          ],
+          "rider": 5,
+          "rider_box": [
+            769,
+            106,
+            818,
+            177
+          ]
+        },
+        {
+          "bbox": [
+            826,
+            172,
+            1022,
+            491
+          ],
+          "rider": 2,
+          "rider_box": [
+            818,
+            97,
+            871,
+            188
+          ]
+        },
+        {
+          "bbox": [
+            826,
+            172,
+            1022,
+            491
+          ],
+          "rider": 3,
+          "rider_box": [
+            825,
+            91,
+            971,
+            214
+          ]
+        },
+        {
+          "bbox": [
+            422,
+            171,
+            480,
+            299
+          ],
+          "rider": 1,
+          "rider_box": [
+            422,
+            107,
+            488,
+            213
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 5,
+          "bbox": [
+            559,
+            181,
+            896,
+            682
+          ]
+        },
+        {
+          "riders": 4,
+          "bbox": [
+            826,
+            172,
+            1022,
+            491
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "bus",
+          "bbox": [
+            1,
+            2,
+            424,
+            500
+          ],
+          "generated_plate": "AP80HI4298"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            559,
+            181,
+            896,
+            682
+          ],
+          "generated_plate": "WB66LP4697"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            139,
+            230,
+            464,
+            662
+          ],
+          "generated_plate": "HR12QR2277"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            826,
+            172,
+            1022,
+            491
+          ],
+          "generated_plate": "GJ18ED2415"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            440,
+            126,
+            649,
+            391
+          ],
+          "generated_plate": "UP41IL8688"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            970,
+            43,
+            1099,
+            400
+          ],
+          "generated_plate": "KA88B9708"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            750,
+            54,
+            936,
+            127
+          ],
+          "generated_plate": "DL94ST7440"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            422,
+            171,
+            480,
+            299
+          ],
+          "generated_plate": "TN25LR8611"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            508,
+            87,
+            655,
+            149
+          ],
+          "generated_plate": "HR49Y7569"
+        }
+      ]
+    },
+    "vehicle_count": 9,
+    "person_count": 8,
+    "timestamp": "2025-11-28 13:26:28"
+  },
+  {
+    "image": "input_images/helmet0_jpg.rf.69ae2d20cc68ddd627ffa3c1c06ba15f.jpg",
+    "output": "output_images/helmet0_jpg.rf.69ae2d20cc68ddd627ffa3c1c06ba15f.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 1,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            0,
+            243,
+            910,
+            607
+          ],
+          "generated_plate": "DL45QP1137"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 2,
+    "timestamp": "2025-11-28 13:26:37"
+  },
+  {
+    "image": "input_images/helmet21_jpeg.rf.9e6d72426890482ae05827d4b4cbfbe7.jpg",
+    "output": "output_images/helmet21_jpeg.rf.9e6d72426890482ae05827d4b4cbfbe7.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 1,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            257,
+            233,
+            700,
+            639
+          ],
+          "generated_plate": "TN89Y1983"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 2,
+    "timestamp": "2025-11-28 13:26:49"
+  },
+  {
+    "image": "input_images/helmet2_jpg.rf.51610d998049445314f8693ca75f73eb.jpg",
+    "output": "output_images/helmet2_jpg.rf.51610d998049445314f8693ca75f73eb.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 1,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            11,
+            473,
+            1097,
+            687
+          ],
+          "generated_plate": "MH91M5147"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 0,
+    "timestamp": "2025-11-28 13:26:55"
+  },
+  {
+    "image": "input_images/helmet24_jpeg.rf.f07afe6a86b472dedd1c423ed408a9ee.jpg",
+    "output": "output_images/helmet24_jpeg.rf.f07afe6a86b472dedd1c423ed408a9ee.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 6,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            777,
+            209,
+            901,
+            358
+          ],
+          "rider": 1,
+          "rider_box": [
+            764,
+            43,
+            949,
+            340
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "bus",
+          "bbox": [
+            2,
+            1,
+            548,
+            350
+          ],
+          "generated_plate": "HR90B6829"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            342,
+            236,
+            742,
+            687
+          ],
+          "generated_plate": "TN06MM5348"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            835,
+            16,
+            1099,
+            251
+          ],
+          "generated_plate": "DL07AL3634"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            777,
+            209,
+            901,
+            358
+          ],
+          "generated_plate": "UP70NE2733"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            574,
+            26,
+            815,
+            244
+          ],
+          "generated_plate": "GJ88GD1975"
+        }
+      ]
+    },
+    "vehicle_count": 5,
+    "person_count": 2,
+    "timestamp": "2025-11-28 13:27:31"
+  },
+  {
+    "image": "input_images/helmet52_jpg.rf.931b5ca0b8403313412c5e20353157ba.jpg",
+    "output": "output_images/helmet52_jpg.rf.931b5ca0b8403313412c5e20353157ba.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 8,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            339,
+            376,
+            839,
+            597
+          ],
+          "rider": 1,
+          "rider_box": [
+            220,
+            92,
+            664,
+            569
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            645,
+            162,
+            1088,
+            414
+          ],
+          "generated_plate": "WB05R9526"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            1,
+            161,
+            345,
+            454
+          ],
+          "generated_plate": "MP06S6579"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            980,
+            355,
+            1088,
+            636
+          ],
+          "generated_plate": "MH90IR6874"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            339,
+            376,
+            839,
+            597
+          ],
+          "generated_plate": "DL60GO3284"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            277,
+            176,
+            377,
+            211
+          ],
+          "generated_plate": "GJ34T8919"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            0,
+            497,
+            65,
+            689
+          ],
+          "generated_plate": "TG42HU3450"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            647,
+            189,
+            733,
+            264
+          ],
+          "generated_plate": "HR30UP9268"
+        }
+      ]
+    },
+    "vehicle_count": 7,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:28:01"
+  },
+  {
+    "image": "input_images/download (3).jpg",
+    "output": "output_images/download (3).jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 2,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            198,
+            327,
+            938,
+            652
+          ],
+          "rider": 1,
+          "rider_box": [
+            284,
+            109,
+            911,
+            651
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            198,
+            327,
+            938,
+            652
+          ],
+          "generated_plate": "MP63EU1244"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:28:10"
+  },
+  {
+    "image": "input_images/helmet23_jpeg.rf.7297e8bd83ce2ef73d899cf6cead5b8d.jpg",
+    "output": "output_images/helmet23_jpeg.rf.7297e8bd83ce2ef73d899cf6cead5b8d.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 3,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            378,
+            272,
+            714,
+            689
+          ],
+          "rider": 2,
+          "rider_box": [
+            422,
+            96,
+            539,
+            277
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            378,
+            272,
+            714,
+            689
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            378,
+            272,
+            714,
+            689
+          ],
+          "generated_plate": "KA25YY7555"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 4,
+    "timestamp": "2025-11-28 13:28:19"
+  },
+  {
+    "image": "input_images/download.jpg",
+    "output": "output_images/download.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 10,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            582,
+            231,
+            920,
+            682
+          ],
+          "rider": 1,
+          "rider_box": [
+            598,
+            61,
+            928,
+            590
+          ]
+        },
+        {
+          "bbox": [
+            582,
+            231,
+            920,
+            682
+          ],
+          "rider": 2,
+          "rider_box": [
+            812,
+            62,
+            966,
+            471
+          ]
+        },
+        {
+          "bbox": [
+            915,
+            200,
+            1030,
+            484
+          ],
+          "rider": 1,
+          "rider_box": [
+            812,
+            62,
+            966,
+            471
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            3,
+            26,
+            391,
+            473
+          ],
+          "generated_plate": "MP93PM7615"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            582,
+            231,
+            920,
+            682
+          ],
+          "generated_plate": "HR88SJ1312"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            339,
+            8,
+            616,
+            253
+          ],
+          "generated_plate": "HR18J5007"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            388,
+            58,
+            677,
+            434
+          ],
+          "generated_plate": "UP82R5613"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            114,
+            9,
+            327,
+            144
+          ],
+          "generated_plate": "KA16MW9755"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            919,
+            193,
+            1030,
+            484
+          ],
+          "generated_plate": "DL14CB8480"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            915,
+            200,
+            1030,
+            484
+          ],
+          "generated_plate": "MP29RP3767"
+        }
+      ]
+    },
+    "vehicle_count": 7,
+    "person_count": 2,
+    "timestamp": "2025-11-28 13:28:53"
+  },
+  {
+    "image": "input_images/helmet42_jpg.rf.7cfbcde1fb16570c20a781733b7b5b19.jpg",
+    "output": "output_images/helmet42_jpg.rf.7cfbcde1fb16570c20a781733b7b5b19.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 7,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            129,
+            252,
+            325,
+            651
+          ],
+          "rider": 1,
+          "rider_box": [
+            144,
+            148,
+            213,
+            254
+          ]
+        },
+        {
+          "bbox": [
+            369,
+            287,
+            516,
+            560
+          ],
+          "rider": 1,
+          "rider_box": [
+            366,
+            171,
+            517,
+            475
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            0,
+            178,
+            170,
+            544
+          ],
+          "generated_plate": "UP39N3904"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            129,
+            252,
+            325,
+            651
+          ],
+          "generated_plate": "HR16P3283"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            369,
+            287,
+            516,
+            560
+          ],
+          "generated_plate": "WB24AG2759"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            461,
+            177,
+            720,
+            445
+          ],
+          "generated_plate": "TG43G6403"
+        },
+        {
+          "type": "bus",
+          "bbox": [
+            830,
+            75,
+            1027,
+            282
+          ],
+          "generated_plate": "KA36S4661"
+        }
+      ]
+    },
+    "vehicle_count": 7,
+    "person_count": 10,
+    "timestamp": "2025-11-28 13:29:16"
+  },
+  {
+    "image": "input_images/helmet1_jpg.rf.c72420c8dbca33016488a62c9979a61c.jpg",
+    "output": "output_images/helmet1_jpg.rf.c72420c8dbca33016488a62c9979a61c.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 0,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 0,
+    "person_count": 0,
+    "timestamp": "2025-11-28 13:29:16"
+  },
+  {
+    "image": "input_images/helmet27_jpeg.rf.dbadfa20610983ca50b9f3c721e7662d.jpg",
+    "output": "output_images/helmet27_jpeg.rf.dbadfa20610983ca50b9f3c721e7662d.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 8,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            441,
+            243,
+            849,
+            691
+          ],
+          "rider": 1,
+          "rider_box": [
+            766,
+            92,
+            992,
+            625
+          ]
+        },
+        {
+          "bbox": [
+            441,
+            243,
+            849,
+            691
+          ],
+          "rider": 2,
+          "rider_box": [
+            513,
+            64,
+            795,
+            408
+          ]
+        },
+        {
+          "bbox": [
+            441,
+            243,
+            849,
+            691
+          ],
+          "rider": 3,
+          "rider_box": [
+            338,
+            183,
+            451,
+            385
+          ]
+        },
+        {
+          "bbox": [
+            1,
+            303,
+            369,
+            691
+          ],
+          "rider": 1,
+          "rider_box": [
+            0,
+            71,
+            392,
+            676
+          ]
+        },
+        {
+          "bbox": [
+            1,
+            303,
+            369,
+            691
+          ],
+          "rider": 2,
+          "rider_box": [
+            338,
+            183,
+            451,
+            385
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            441,
+            243,
+            849,
+            691
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            441,
+            243,
+            849,
+            691
+          ],
+          "generated_plate": "KA10R3395"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            1,
+            303,
+            369,
+            691
+          ],
+          "generated_plate": "GJ78S3776"
+        }
+      ]
+    },
+    "vehicle_count": 2,
+    "person_count": 5,
+    "timestamp": "2025-11-28 13:29:36"
+  },
+  {
+    "image": "input_images/helmet6_jpg.rf.52e0cf3e2dc738f6488a15ad0e30af03.jpg",
+    "output": "output_images/helmet6_jpg.rf.52e0cf3e2dc738f6488a15ad0e30af03.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 3,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            557,
+            246,
+            980,
+            692
+          ],
+          "rider": 1,
+          "rider_box": [
+            593,
+            32,
+            902,
+            418
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            557,
+            246,
+            980,
+            692
+          ],
+          "generated_plate": "GJ40K6005"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            467,
+            77,
+            514,
+            155
+          ],
+          "generated_plate": "TG64TQ5701"
+        }
+      ]
+    },
+    "vehicle_count": 2,
+    "person_count": 2,
+    "timestamp": "2025-11-28 13:29:47"
+  },
+  {
+    "image": "input_images/helmet18_jpg.rf.0cf92fc7a60d4483e6a5061d9e229993.jpg",
+    "output": "output_images/helmet18_jpg.rf.0cf92fc7a60d4483e6a5061d9e229993.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 4,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "truck",
+          "bbox": [
+            0,
+            234,
+            255,
+            397
+          ],
+          "generated_plate": "KA75UV7270"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            902,
+            302,
+            1099,
+            394
+          ],
+          "generated_plate": "WB34I7867"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            214,
+            361,
+            712,
+            652
+          ],
+          "generated_plate": "DL38K8493"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            114,
+            206,
+            368,
+            444
+          ],
+          "generated_plate": "WB32G3118"
+        }
+      ]
+    },
+    "vehicle_count": 5,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:30:14"
+  },
+  {
+    "image": "input_images/helmet13_jpg.rf.547baef7252a2ef48379a2d84e1275bd.jpg",
+    "output": "output_images/helmet13_jpg.rf.547baef7252a2ef48379a2d84e1275bd.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 15,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            907,
+            326,
+            964,
+            429
+          ],
+          "rider": 2,
+          "rider_box": [
+            893,
+            243,
+            954,
+            354
+          ]
+        },
+        {
+          "bbox": [
+            780,
+            328,
+            900,
+            475
+          ],
+          "rider": 2,
+          "rider_box": [
+            893,
+            243,
+            954,
+            354
+          ]
+        },
+        {
+          "bbox": [
+            357,
+            292,
+            467,
+            357
+          ],
+          "rider": 2,
+          "rider_box": [
+            384,
+            242,
+            439,
+            317
+          ]
+        },
+        {
+          "bbox": [
+            298,
+            276,
+            476,
+            448
+          ],
+          "rider": 3,
+          "rider_box": [
+            384,
+            242,
+            439,
+            317
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            298,
+            276,
+            476,
+            448
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            0,
+            251,
+            232,
+            686
+          ],
+          "generated_plate": "RJ48M9829"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            66,
+            328,
+            474,
+            692
+          ],
+          "generated_plate": "MH12G2733"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            948,
+            262,
+            1051,
+            322
+          ],
+          "generated_plate": "GJ41R8280"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            907,
+            326,
+            964,
+            429
+          ],
+          "generated_plate": "UP23X4996"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            780,
+            328,
+            900,
+            475
+          ],
+          "generated_plate": "GJ77KV1943"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            1044,
+            264,
+            1093,
+            308
+          ],
+          "generated_plate": "AP13A3155"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            515,
+            262,
+            603,
+            357
+          ],
+          "generated_plate": "MH31BQ6663"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            1088,
+            275,
+            1099,
+            318
+          ],
+          "generated_plate": "KA88NB9032"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            357,
+            292,
+            467,
+            357
+          ],
+          "generated_plate": "TG09CH1920"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            400,
+            338,
+            478,
+            448
+          ],
+          "generated_plate": "RJ90IX6856"
+        }
+      ]
+    },
+    "vehicle_count": 13,
+    "person_count": 9,
+    "timestamp": "2025-11-28 13:30:44"
+  },
+  {
+    "image": "input_images/helmet17_jpg.rf.fe3b0103c81f6ea6bef6570e1da39fad.jpg",
+    "output": "output_images/helmet17_jpg.rf.fe3b0103c81f6ea6bef6570e1da39fad.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 9,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            290,
+            141,
+            589,
+            256
+          ],
+          "generated_plate": "MH08E4892"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            103,
+            132,
+            402,
+            216
+          ],
+          "generated_plate": "RJ75DA6086"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            0,
+            161,
+            51,
+            285
+          ],
+          "generated_plate": "UP70V8134"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            23,
+            167,
+            171,
+            226
+          ],
+          "generated_plate": "WB99L5273"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            580,
+            258,
+            884,
+            667
+          ],
+          "generated_plate": "UP68CC3090"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            1080,
+            139,
+            1099,
+            188
+          ],
+          "generated_plate": "WB24J5810"
+        },
+        {
+          "type": "bus",
+          "bbox": [
+            82,
+            99,
+            185,
+            155
+          ],
+          "generated_plate": "HR91B7106"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            81,
+            99,
+            185,
+            154
+          ],
+          "generated_plate": "GJ22XC9077"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            427,
+            129,
+            551,
+            144
+          ],
+          "generated_plate": "WB25P2510"
+        }
+      ]
+    },
+    "vehicle_count": 9,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:31:04"
+  },
+  {
+    "image": "input_images/download (7).jpg",
+    "output": "output_images/download (7).jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 5,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            271,
+            259,
+            842,
+            689
+          ],
+          "rider": 4,
+          "rider_box": [
+            712,
+            89,
+            791,
+            315
+          ]
+        },
+        {
+          "bbox": [
+            972,
+            127,
+            1097,
+            231
+          ],
+          "rider": 1,
+          "rider_box": [
+            969,
+            82,
+            1050,
+            205
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 4,
+          "bbox": [
+            271,
+            259,
+            842,
+            689
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            271,
+            259,
+            842,
+            689
+          ],
+          "generated_plate": "MP10Y1111"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            972,
+            127,
+            1097,
+            231
+          ],
+          "generated_plate": "WB49SZ9119"
+        }
+      ]
+    },
+    "vehicle_count": 2,
+    "person_count": 6,
+    "timestamp": "2025-11-28 13:31:18"
+  },
+  {
+    "image": "input_images/download (6).jpg",
+    "output": "output_images/download (6).jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 8,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            225,
+            187,
+            768,
+            542
+          ],
+          "rider": 1,
+          "rider_box": [
+            369,
+            77,
+            485,
+            434
+          ]
+        },
+        {
+          "bbox": [
+            225,
+            187,
+            768,
+            542
+          ],
+          "rider": 2,
+          "rider_box": [
+            422,
+            50,
+            589,
+            549
+          ]
+        },
+        {
+          "bbox": [
+            225,
+            187,
+            768,
+            542
+          ],
+          "rider": 3,
+          "rider_box": [
+            289,
+            69,
+            425,
+            463
+          ]
+        },
+        {
+          "bbox": [
+            1010,
+            162,
+            1098,
+            231
+          ],
+          "rider": 1,
+          "rider_box": [
+            1026,
+            127,
+            1059,
+            208
+          ]
+        },
+        {
+          "bbox": [
+            1010,
+            162,
+            1098,
+            231
+          ],
+          "rider": 2,
+          "rider_box": [
+            1054,
+            144,
+            1085,
+            209
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            225,
+            187,
+            768,
+            542
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            225,
+            187,
+            768,
+            542
+          ],
+          "generated_plate": "RJ41YH4681"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            1010,
+            162,
+            1098,
+            231
+          ],
+          "generated_plate": "TN02VL3297"
+        }
+      ]
+    },
+    "vehicle_count": 3,
+    "person_count": 5,
+    "timestamp": "2025-11-28 13:31:30"
+  },
+  {
+    "image": "input_images/helmet10_jpg.rf.da95005d87afb625e44052ffad9d194c.jpg",
+    "output": "output_images/helmet10_jpg.rf.da95005d87afb625e44052ffad9d194c.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 0,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 0,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:31:30"
+  },
+  {
+    "image": "input_images/helmet35_jpeg.rf.f128d848f64109e7fe1e216528dffa70.jpg",
+    "output": "output_images/helmet35_jpeg.rf.f128d848f64109e7fe1e216528dffa70.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 4,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            288,
+            195,
+            1029,
+            654
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            11,
+            117,
+            577,
+            368
+          ],
+          "generated_plate": "WB27ND6421"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            288,
+            195,
+            1029,
+            654
+          ],
+          "generated_plate": "WB73L8989"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            1002,
+            102,
+            1099,
+            294
+          ],
+          "generated_plate": "GJ91J5949"
+        }
+      ]
+    },
+    "vehicle_count": 3,
+    "person_count": 3,
+    "timestamp": "2025-11-28 13:31:53"
+  },
+  {
+    "image": "input_images/download (5).jpg",
+    "output": "output_images/download (5).jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 3,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            67,
+            306,
+            1050,
+            679
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            67,
+            306,
+            1050,
+            679
+          ],
+          "generated_plate": "AP30Z4320"
+        },
+        {
+          "type": "bus",
+          "bbox": [
+            459,
+            171,
+            578,
+            304
+          ],
+          "generated_plate": "MH31I8804"
+        }
+      ]
+    },
+    "vehicle_count": 4,
+    "person_count": 3,
+    "timestamp": "2025-11-28 13:32:15"
+  },
+  {
+    "image": "input_images/helmet54_jpeg.rf.c7bd370f7edaf67cd2fbb201f53f7cb6.jpg",
+    "output": "output_images/helmet54_jpeg.rf.c7bd370f7edaf67cd2fbb201f53f7cb6.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 6,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            425,
+            237,
+            491,
+            277
+          ],
+          "generated_plate": "TG26BU9313"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            510,
+            371,
+            747,
+            587
+          ],
+          "generated_plate": "KA95ZI4757"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            779,
+            211,
+            949,
+            304
+          ],
+          "generated_plate": "GJ59JX1705"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            300,
+            231,
+            361,
+            273
+          ],
+          "generated_plate": "RJ13C1601"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            780,
+            211,
+            949,
+            304
+          ],
+          "generated_plate": "MP90X6813"
+        },
+        {
+          "type": "bus",
+          "bbox": [
+            779,
+            211,
+            949,
+            304
+          ],
+          "generated_plate": "TG49X9247"
+        }
+      ]
+    },
+    "vehicle_count": 6,
+    "person_count": 2,
+    "timestamp": "2025-11-28 13:32:26"
+  },
+  {
+    "image": "input_images/helmet28_jpeg.rf.b4d3f7f91beec0b397ae3b2223b58194.jpg",
+    "output": "output_images/helmet28_jpeg.rf.b4d3f7f91beec0b397ae3b2223b58194.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 6,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            409,
+            360,
+            980,
+            692
+          ],
+          "rider": 1,
+          "rider_box": [
+            442,
+            70,
+            860,
+            691
+          ]
+        },
+        {
+          "bbox": [
+            740,
+            155,
+            977,
+            453
+          ],
+          "rider": 1,
+          "rider_box": [
+            442,
+            70,
+            860,
+            691
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            0,
+            287,
+            433,
+            680
+          ],
+          "generated_plate": "UP93YR8815"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            409,
+            360,
+            980,
+            692
+          ],
+          "generated_plate": "KA51FL6152"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            740,
+            155,
+            977,
+            453
+          ],
+          "generated_plate": "WB54GY1209"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            955,
+            45,
+            1054,
+            177
+          ],
+          "generated_plate": "WB43X3067"
+        }
+      ]
+    },
+    "vehicle_count": 4,
+    "person_count": 3,
+    "timestamp": "2025-11-28 13:32:57"
+  },
+  {
+    "image": "input_images/helmet14_jpg.rf.539f867a2354d9577c7d51b0f9f83f45.jpg",
+    "output": "output_images/helmet14_jpg.rf.539f867a2354d9577c7d51b0f9f83f45.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 7,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            32,
+            224,
+            366,
+            690
+          ],
+          "generated_plate": "TG44QZ6466"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            332,
+            233,
+            725,
+            567
+          ],
+          "generated_plate": "DL43K9787"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            677,
+            145,
+            1099,
+            513
+          ],
+          "generated_plate": "TG32Q3475"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            0,
+            103,
+            45,
+            416
+          ],
+          "generated_plate": "MH37EF6480"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            795,
+            110,
+            965,
+            158
+          ],
+          "generated_plate": "MH52V2399"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            83,
+            68,
+            505,
+            346
+          ],
+          "generated_plate": "HR83XY6528"
+        },
+        {
+          "type": "bus",
+          "bbox": [
+            0,
+            2,
+            429,
+            87
+          ],
+          "generated_plate": "MH09XY6802"
+        }
+      ]
+    },
+    "vehicle_count": 10,
+    "person_count": 8,
+    "timestamp": "2025-11-28 13:33:33"
+  },
+  {
+    "image": "input_images/helmet3_jpg.rf.715805541179e2a12ed1ff581b2baadd.jpg",
+    "output": "output_images/helmet3_jpg.rf.715805541179e2a12ed1ff581b2baadd.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 13,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            0,
+            246,
+            281,
+            691
+          ],
+          "rider": 1,
+          "rider_box": [
+            0,
+            55,
+            275,
+            596
+          ]
+        },
+        {
+          "bbox": [
+            510,
+            260,
+            778,
+            692
+          ],
+          "rider": 2,
+          "rider_box": [
+            774,
+            153,
+            823,
+            316
+          ]
+        },
+        {
+          "bbox": [
+            510,
+            260,
+            778,
+            692
+          ],
+          "rider": 3,
+          "rider_box": [
+            691,
+            78,
+            790,
+            333
+          ]
+        },
+        {
+          "bbox": [
+            966,
+            269,
+            1099,
+            551
+          ],
+          "rider": 1,
+          "rider_box": [
+            962,
+            111,
+            1099,
+            301
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            510,
+            260,
+            778,
+            692
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            0,
+            246,
+            281,
+            691
+          ],
+          "generated_plate": "AP20W8846"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            510,
+            260,
+            778,
+            692
+          ],
+          "generated_plate": "AP64UX7436"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            811,
+            124,
+            967,
+            342
+          ],
+          "generated_plate": "TG49Q1643"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            0,
+            158,
+            392,
+            369
+          ],
+          "generated_plate": "RJ32G1803"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            966,
+            269,
+            1099,
+            551
+          ],
+          "generated_plate": "HR19D9364"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            383,
+            76,
+            612,
+            444
+          ],
+          "generated_plate": "UP82R9846"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            383,
+            77,
+            612,
+            443
+          ],
+          "generated_plate": "DL31R1005"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            744,
+            325,
+            799,
+            517
+          ],
+          "generated_plate": "MH50Y1630"
+        }
+      ]
+    },
+    "vehicle_count": 8,
+    "person_count": 6,
+    "timestamp": "2025-11-28 13:34:12"
+  },
+  {
+    "image": "input_images/helmet44_jpg.rf.a47f6ed7b3b48f981714bb451ea5b2e1.jpg",
+    "output": "output_images/helmet44_jpg.rf.a47f6ed7b3b48f981714bb451ea5b2e1.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 8,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            648,
+            180,
+            910,
+            659
+          ],
+          "rider": 1,
+          "rider_box": [
+            655,
+            14,
+            930,
+            525
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            153,
+            147,
+            449,
+            614
+          ],
+          "generated_plate": "TG69M2636"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            876,
+            122,
+            1099,
+            305
+          ],
+          "generated_plate": "WB56R2828"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            648,
+            180,
+            910,
+            659
+          ],
+          "generated_plate": "KA74B1238"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            553,
+            110,
+            586,
+            195
+          ],
+          "generated_plate": "TG31HN2990"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            448,
+            104,
+            529,
+            199
+          ],
+          "generated_plate": "MP59UH4423"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            58,
+            86,
+            277,
+            302
+          ],
+          "generated_plate": "MH59OF3202"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            522,
+            112,
+            568,
+            174
+          ],
+          "generated_plate": "DL93J1580"
+        }
+      ]
+    },
+    "vehicle_count": 8,
+    "person_count": 3,
+    "timestamp": "2025-11-28 13:34:37"
+  },
+  {
+    "image": "input_images/helmet31_jpg.rf.0267a448aa38e0e017556bf8fd954e24.jpg",
+    "output": "output_images/helmet31_jpg.rf.0267a448aa38e0e017556bf8fd954e24.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 3,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            422,
+            179,
+            749,
+            694
+          ],
+          "rider": 3,
+          "rider_box": [
+            411,
+            13,
+            543,
+            606
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            422,
+            179,
+            749,
+            694
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            422,
+            179,
+            749,
+            694
+          ],
+          "generated_plate": "TN54BT7426"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 3,
+    "timestamp": "2025-11-28 13:34:45"
+  },
+  {
+    "image": "input_images/helmet34_jpeg.rf.577468e9a65ad0c66ba7c9c8019264d0.jpg",
+    "output": "output_images/helmet34_jpeg.rf.577468e9a65ad0c66ba7c9c8019264d0.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 5,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            497,
+            78,
+            580,
+            131
+          ],
+          "generated_plate": "TG02GF7944"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            1,
+            524,
+            658,
+            688
+          ],
+          "generated_plate": "WB04UT7505"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            535,
+            66,
+            787,
+            261
+          ],
+          "generated_plate": "GJ98M5300"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            979,
+            85,
+            1099,
+            200
+          ],
+          "generated_plate": "MP65AA3318"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            620,
+            237,
+            961,
+            458
+          ],
+          "generated_plate": "TG70Y1053"
+        }
+      ]
+    },
+    "vehicle_count": 5,
+    "person_count": 0,
+    "timestamp": "2025-11-28 13:35:04"
+  },
+  {
+    "image": "input_images/download (1).jpg",
+    "output": "output_images/download (1).jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 3,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            113,
+            331,
+            819,
+            689
+          ],
+          "rider": 1,
+          "rider_box": [
+            151,
+            2,
+            768,
+            690
+          ]
+        },
+        {
+          "bbox": [
+            113,
+            331,
+            819,
+            689
+          ],
+          "rider": 2,
+          "rider_box": [
+            432,
+            31,
+            828,
+            521
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            113,
+            331,
+            819,
+            689
+          ],
+          "generated_plate": "TN02KD1157"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 2,
+    "timestamp": "2025-11-28 13:35:13"
+  },
+  {
+    "image": "input_images/helmet16_jpg.rf.a36b07003728d06c90068f3fb5871cdd.jpg",
+    "output": "output_images/helmet16_jpg.rf.a36b07003728d06c90068f3fb5871cdd.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 7,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            563,
+            230,
+            874,
+            596
+          ],
+          "rider": 1,
+          "rider_box": [
+            660,
+            31,
+            944,
+            477
+          ]
+        },
+        {
+          "bbox": [
+            563,
+            230,
+            874,
+            596
+          ],
+          "rider": 2,
+          "rider_box": [
+            605,
+            98,
+            675,
+            286
+          ]
+        },
+        {
+          "bbox": [
+            935,
+            217,
+            1021,
+            323
+          ],
+          "rider": 1,
+          "rider_box": [
+            986,
+            123,
+            1052,
+            285
+          ]
+        },
+        {
+          "bbox": [
+            935,
+            217,
+            1021,
+            323
+          ],
+          "rider": 2,
+          "rider_box": [
+            936,
+            136,
+            1035,
+            282
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            563,
+            230,
+            874,
+            596
+          ],
+          "generated_plate": "MH45U3629"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            111,
+            137,
+            296,
+            262
+          ],
+          "generated_plate": "RJ88E7713"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            935,
+            217,
+            1021,
+            323
+          ],
+          "generated_plate": "DL38AF2435"
+        }
+      ]
+    },
+    "vehicle_count": 6,
+    "person_count": 9,
+    "timestamp": "2025-11-28 13:35:24"
+  },
+  {
+    "image": "input_images/helmet39_jpg.rf.0f2d8d1a9a8168fb507b5b79085cdead.jpg",
+    "output": "output_images/helmet39_jpg.rf.0f2d8d1a9a8168fb507b5b79085cdead.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 2,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            326,
+            252,
+            733,
+            691
+          ],
+          "rider": 1,
+          "rider_box": [
+            349,
+            99,
+            759,
+            565
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            326,
+            252,
+            733,
+            691
+          ],
+          "generated_plate": "GJ12D4346"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:35:33"
+  },
+  {
+    "image": "input_images/download (4).jpg",
+    "output": "output_images/download (4).jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 3,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            410,
+            189,
+            749,
+            692
+          ],
+          "rider": 3,
+          "rider_box": [
+            409,
+            17,
+            542,
+            348
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            410,
+            189,
+            749,
+            692
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            410,
+            189,
+            749,
+            692
+          ],
+          "generated_plate": "WB67TO2503"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 3,
+    "timestamp": "2025-11-28 13:35:41"
+  },
+  {
+    "image": "input_images/helmet4_jpg.rf.4191fa580cb44ef3e6cb588b61094e04.jpg",
+    "output": "output_images/helmet4_jpg.rf.4191fa580cb44ef3e6cb588b61094e04.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 0,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 0,
+    "person_count": 0,
+    "timestamp": "2025-11-28 13:35:41"
+  },
+  {
+    "image": "input_images/helmet5_jpg.rf.7249f5efbe2163b3ca5b0179c0004074.jpg",
+    "output": "output_images/helmet5_jpg.rf.7249f5efbe2163b3ca5b0179c0004074.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 0,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 0,
+    "person_count": 0,
+    "timestamp": "2025-11-28 13:35:41"
+  },
+  {
+    "image": "input_images/helmet46_jpeg.rf.9c09b348f8018b60f8cbce0652eab9fb.jpg",
+    "output": "output_images/helmet46_jpeg.rf.9c09b348f8018b60f8cbce0652eab9fb.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 1,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            8,
+            46,
+            782,
+            649
+          ],
+          "generated_plate": "WB17Q8267"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:35:58"
+  },
+  {
+    "image": "input_images/helmet8_png.rf.6d6e7e3793ba4219ff3db0b85ca9ad8c.jpg",
+    "output": "output_images/helmet8_png.rf.6d6e7e3793ba4219ff3db0b85ca9ad8c.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 4,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            121,
+            286,
+            879,
+            677
+          ],
+          "rider": 1,
+          "rider_box": [
+            63,
+            65,
+            1007,
+            603
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            121,
+            286,
+            879,
+            677
+          ],
+          "generated_plate": "TG12DU5990"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            64,
+            66,
+            890,
+            671
+          ],
+          "generated_plate": "HR77GI7867"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            4,
+            161,
+            241,
+            266
+          ],
+          "generated_plate": "RJ73KA8062"
+        }
+      ]
+    },
+    "vehicle_count": 3,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:36:33"
+  },
+  {
+    "image": "input_images/helmet26_jpeg.rf.c669f418144015cba5693d2e4a298def.jpg",
+    "output": "output_images/helmet26_jpeg.rf.c669f418144015cba5693d2e4a298def.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 0,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 0,
+    "person_count": 5,
+    "timestamp": "2025-11-28 13:36:33"
+  },
+  {
+    "image": "input_images/helmet32_jpg.rf.55b4d019ba2b445b0ac0e5021883fd81.jpg",
+    "output": "output_images/helmet32_jpg.rf.55b4d019ba2b445b0ac0e5021883fd81.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 5,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            807,
+            409,
+            999,
+            694
+          ],
+          "rider": 1,
+          "rider_box": [
+            780,
+            269,
+            1023,
+            651
+          ]
+        },
+        {
+          "bbox": [
+            48,
+            224,
+            266,
+            373
+          ],
+          "rider": 2,
+          "rider_box": [
+            34,
+            160,
+            114,
+            264
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            912,
+            156,
+            1099,
+            344
+          ],
+          "generated_plate": "RJ59AI4855"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            807,
+            409,
+            999,
+            694
+          ],
+          "generated_plate": "AP35B7143"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            48,
+            224,
+            266,
+            373
+          ],
+          "generated_plate": "TN87X7300"
+        }
+      ]
+    },
+    "vehicle_count": 3,
+    "person_count": 5,
+    "timestamp": "2025-11-28 13:36:40"
+  },
+  {
+    "image": "input_images/helmet48_jpg.rf.c28c7118da041b96f122e7c9b65568ad.jpg",
+    "output": "output_images/helmet48_jpg.rf.c28c7118da041b96f122e7c9b65568ad.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 4,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "bus",
+          "bbox": [
+            3,
+            1,
+            248,
+            149
+          ],
+          "generated_plate": "WB26L1717"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            416,
+            312,
+            726,
+            677
+          ],
+          "generated_plate": "MH32W7482"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            613,
+            0,
+            888,
+            138
+          ],
+          "generated_plate": "WB13Z8366"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            336,
+            15,
+            416,
+            75
+          ],
+          "generated_plate": "RJ03X6330"
+        }
+      ]
+    },
+    "vehicle_count": 4,
+    "person_count": 3,
+    "timestamp": "2025-11-28 13:36:53"
+  },
+  {
+    "image": "input_images/helmet29_jpg.rf.5f10d302a7ad2751b95037846bd4d0f5.jpg",
+    "output": "output_images/helmet29_jpg.rf.5f10d302a7ad2751b95037846bd4d0f5.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 16,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            362,
+            297,
+            635,
+            694
+          ],
+          "rider": 1,
+          "rider_box": [
+            240,
+            92,
+            451,
+            692
+          ]
+        },
+        {
+          "bbox": [
+            362,
+            297,
+            635,
+            694
+          ],
+          "rider": 2,
+          "rider_box": [
+            455,
+            168,
+            911,
+            693
+          ]
+        },
+        {
+          "bbox": [
+            362,
+            297,
+            635,
+            694
+          ],
+          "rider": 3,
+          "rider_box": [
+            440,
+            202,
+            704,
+            435
+          ]
+        },
+        {
+          "bbox": [
+            558,
+            370,
+            999,
+            694
+          ],
+          "rider": 1,
+          "rider_box": [
+            455,
+            168,
+            911,
+            693
+          ]
+        },
+        {
+          "bbox": [
+            558,
+            370,
+            999,
+            694
+          ],
+          "rider": 2,
+          "rider_box": [
+            440,
+            202,
+            704,
+            435
+          ]
+        },
+        {
+          "bbox": [
+            7,
+            339,
+            279,
+            691
+          ],
+          "rider": 1,
+          "rider_box": [
+            240,
+            92,
+            451,
+            692
+          ]
+        },
+        {
+          "bbox": [
+            7,
+            339,
+            279,
+            691
+          ],
+          "rider": 2,
+          "rider_box": [
+            70,
+            219,
+            107,
+            359
+          ]
+        },
+        {
+          "bbox": [
+            7,
+            339,
+            279,
+            691
+          ],
+          "rider": 3,
+          "rider_box": [
+            124,
+            167,
+            288,
+            650
+          ]
+        },
+        {
+          "bbox": [
+            7,
+            339,
+            279,
+            691
+          ],
+          "rider": 4,
+          "rider_box": [
+            124,
+            168,
+            255,
+            381
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            362,
+            297,
+            635,
+            694
+          ]
+        },
+        {
+          "riders": 4,
+          "bbox": [
+            7,
+            339,
+            279,
+            691
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            795,
+            239,
+            1099,
+            601
+          ],
+          "generated_plate": "KA47Q1557"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            362,
+            297,
+            635,
+            694
+          ],
+          "generated_plate": "GJ68B6812"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            558,
+            370,
+            999,
+            694
+          ],
+          "generated_plate": "DL81CC4471"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            7,
+            339,
+            279,
+            691
+          ],
+          "generated_plate": "TG65U7698"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            593,
+            122,
+            824,
+            302
+          ],
+          "generated_plate": "KA52I1413"
+        }
+      ]
+    },
+    "vehicle_count": 5,
+    "person_count": 6,
+    "timestamp": "2025-11-28 13:37:17"
+  },
+  {
+    "image": "input_images/helmet25_jpeg.rf.c48bcacd286004afa388d7034272d671.jpg",
+    "output": "output_images/helmet25_jpeg.rf.c48bcacd286004afa388d7034272d671.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 4,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            1014,
+            212,
+            1098,
+            373
+          ],
+          "rider": 1,
+          "rider_box": [
+            1011,
+            171,
+            1099,
+            272
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            377,
+            343,
+            661,
+            687
+          ],
+          "generated_plate": "AP02CS2152"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            1014,
+            212,
+            1098,
+            373
+          ],
+          "generated_plate": "RJ36GF9124"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            779,
+            261,
+            832,
+            402
+          ],
+          "generated_plate": "KA75JA3903"
+        }
+      ]
+    },
+    "vehicle_count": 3,
+    "person_count": 4,
+    "timestamp": "2025-11-28 13:37:28"
+  },
+  {
+    "image": "input_images/helmet55_jpeg.rf.b7e15891c8c3f2faebdf03ad4e451fee.jpg",
+    "output": "output_images/helmet55_jpeg.rf.b7e15891c8c3f2faebdf03ad4e451fee.jpg",
+    "red_light_on": "DISABLED",
+    "total_violations": 2,
+    "violations": {
+      "red_light": [],
+      "no_helmet": [
+        {
+          "bbox": [
+            329,
+            216,
+            857,
+            502
+          ],
+          "rider": 1,
+          "rider_box": [
+            325,
+            62,
+            784,
+            453
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            329,
+            216,
+            857,
+            502
+          ],
+          "generated_plate": "HR46A1257"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:37:38"
+  }
+]

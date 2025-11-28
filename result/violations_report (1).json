@@ -1,0 +1,4905 @@
+[
+  {
+    "image": "input_images/helmet9_jpg.rf.cbb7a00dd96efc5a6ea3e622ef201c02.jpg",
+    "output": "output_images/helmet9_jpg.rf.cbb7a00dd96efc5a6ea3e622ef201c02.jpg",
+    "total_violations": 0,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 0,
+    "person_count": 0,
+    "timestamp": "2025-11-28 13:24:42",
+    "fines": {
+      "total_fines": 0,
+      "fines_list": [],
+      "paid_fines": 0,
+      "pending_fines": 0
+    }
+  },
+  {
+    "image": "input_images/helmet11_jpg.rf.e85f00dfa5b15abbf92a006cc929cfe0.jpg",
+    "output": "output_images/helmet11_jpg.rf.e85f00dfa5b15abbf92a006cc929cfe0.jpg",
+    "total_violations": 0,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 1,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:24:53",
+    "fines": {
+      "total_fines": 0,
+      "fines_list": [],
+      "paid_fines": 0,
+      "pending_fines": 0
+    }
+  },
+  {
+    "image": "input_images/helmet36_jpg.rf.62abf22b9c601845bd5aed01a928d776.jpg",
+    "output": "output_images/helmet36_jpg.rf.62abf22b9c601845bd5aed01a928d776.jpg",
+    "total_violations": 4,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            371,
+            78,
+            605,
+            360
+          ],
+          "generated_plate": "DL23BS7491"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            4,
+            350,
+            266,
+            692
+          ],
+          "generated_plate": "RJ31M7260"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            523,
+            398,
+            821,
+            692
+          ],
+          "generated_plate": "RJ51F4351"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            649,
+            71,
+            683,
+            91
+          ],
+          "generated_plate": "UP06O8209"
+        }
+      ]
+    },
+    "vehicle_count": 6,
+    "person_count": 5,
+    "timestamp": "2025-11-28 13:25:07",
+    "fines": {
+      "total_fines": 4000,
+      "fines_list": [
+        {
+          "fine_id": 1001,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "paid",
+          "issued_date": "2025-11-28 13:25:07",
+          "paid_date": "2025-11-29 00:52:36",
+          "payment_method": "cash",
+          "remarks": ""
+        },
+        {
+          "fine_id": 1002,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "paid",
+          "issued_date": "2025-11-28 13:25:07",
+          "paid_date": "2025-11-29 01:27:58",
+          "payment_method": "upi",
+          "remarks": ""
+        },
+        {
+          "fine_id": 1003,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:25:07",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1004,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:25:07",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 2000,
+      "pending_fines": 2000
+    }
+  },
+  {
+    "image": "input_images/helmet53_jpg.rf.c1496893b65d579eb4756cc7b01ed78e.jpg",
+    "output": "output_images/helmet53_jpg.rf.c1496893b65d579eb4756cc7b01ed78e.jpg",
+    "total_violations": 5,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            607,
+            129,
+            666,
+            186
+          ],
+          "generated_plate": "AP93A4106"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            450,
+            336,
+            616,
+            690
+          ],
+          "generated_plate": "WB84C8612"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            658,
+            113,
+            693,
+            141
+          ],
+          "generated_plate": "HR85K8858"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            576,
+            144,
+            610,
+            173
+          ],
+          "generated_plate": "RJ49C8519"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            618,
+            108,
+            655,
+            133
+          ],
+          "generated_plate": "UP26K6081"
+        }
+      ]
+    },
+    "vehicle_count": 5,
+    "person_count": 5,
+    "timestamp": "2025-11-28 13:25:12",
+    "fines": {
+      "total_fines": 5000,
+      "fines_list": [
+        {
+          "fine_id": 1005,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:25:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1006,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:25:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1007,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:25:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1008,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:25:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1009,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:25:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 5000
+    }
+  },
+  {
+    "image": "input_images/helmet43_jpg.rf.cafb5a2215cec829e8e0831c1485ae0a.jpg",
+    "output": "output_images/helmet43_jpg.rf.cafb5a2215cec829e8e0831c1485ae0a.jpg",
+    "total_violations": 4,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            289,
+            231,
+            736,
+            679
+          ],
+          "rider": 1,
+          "rider_box": [
+            286,
+            29,
+            608,
+            537
+          ]
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            289,
+            231,
+            736,
+            679
+          ],
+          "generated_plate": "MH67QI5895"
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            634,
+            266,
+            909,
+            692
+          ],
+          "generated_plate": "RJ53PS3877"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            197,
+            301,
+            580,
+            691
+          ],
+          "generated_plate": "HR02TF5759"
+        }
+      ]
+    },
+    "vehicle_count": 2,
+    "person_count": 10,
+    "timestamp": "2025-11-28 13:25:26",
+    "fines": {
+      "total_fines": 3000,
+      "fines_list": [
+        {
+          "fine_id": 1010,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:25:26",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1011,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:25:26",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1012,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:25:26",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1013,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:25:26",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 3000
+    }
+  },
+  {
+    "image": "input_images/download (2).jpg",
+    "output": "output_images/download (2).jpg",
+    "total_violations": 3,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            289,
+            231,
+            736,
+            679
+          ],
+          "rider": 1,
+          "rider_box": [
+            286,
+            29,
+            608,
+            537
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            289,
+            231,
+            736,
+            679
+          ],
+          "generated_plate": "MH67QI5895"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            676,
+            180,
+            1099,
+            357
+          ],
+          "generated_plate": "UP81Q8014"
+        }
+      ]
+    },
+    "vehicle_count": 2,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:25:42",
+    "fines": {
+      "total_fines": 2500,
+      "fines_list": [
+        {
+          "fine_id": 1014,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:25:42",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1015,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:25:42",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1016,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:25:42",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 2500
+    }
+  },
+  {
+    "image": "input_images/helmet15_jpg.rf.1a7ae1f713142bf17e73784ab7427106.jpg",
+    "output": "output_images/helmet15_jpg.rf.1a7ae1f713142bf17e73784ab7427106.jpg",
+    "total_violations": 0,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 9,
+    "person_count": 8,
+    "timestamp": "2025-11-28 13:26:28",
+    "fines": {
+      "total_fines": 0,
+      "fines_list": [],
+      "paid_fines": 0,
+      "pending_fines": 0
+    }
+  },
+  {
+    "image": "input_images/helmet0_jpg.rf.69ae2d20cc68ddd627ffa3c1c06ba15f.jpg",
+    "output": "output_images/helmet0_jpg.rf.69ae2d20cc68ddd627ffa3c1c06ba15f.jpg",
+    "total_violations": 1,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            289,
+            231,
+            736,
+            679
+          ],
+          "rider": 1,
+          "rider_box": [
+            286,
+            29,
+            608,
+            537
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 1,
+    "person_count": 2,
+    "timestamp": "2025-11-28 13:26:37",
+    "fines": {
+      "total_fines": 500,
+      "fines_list": [
+        {
+          "fine_id": 1017,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:26:37",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 500
+    }
+  },
+  {
+    "image": "input_images/helmet21_jpeg.rf.9e6d72426890482ae05827d4b4cbfbe7.jpg",
+    "output": "output_images/helmet21_jpeg.rf.9e6d72426890482ae05827d4b4cbfbe7.jpg",
+    "total_violations": 1,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            289,
+            231,
+            736,
+            679
+          ],
+          "rider": 1,
+          "rider_box": [
+            286,
+            29,
+            608,
+            537
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 1,
+    "person_count": 2,
+    "timestamp": "2025-11-28 13:26:49",
+    "fines": {
+      "total_fines": 500,
+      "fines_list": [
+        {
+          "fine_id": 1018,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:26:49",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 500
+    }
+  },
+  {
+    "image": "input_images/helmet2_jpg.rf.51610d998049445314f8693ca75f73eb.jpg",
+    "output": "output_images/helmet2_jpg.rf.51610d998049445314f8693ca75f73eb.jpg",
+    "total_violations": 1,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            289,
+            231,
+            736,
+            679
+          ],
+          "rider": 1,
+          "rider_box": [
+            286,
+            29,
+            608,
+            537
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 1,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:26:55",
+    "fines": {
+      "total_fines": 500,
+      "fines_list": [
+        {
+          "fine_id": 1019,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:26:55",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 500
+    }
+  },
+  {
+    "image": "input_images/helmet24_jpeg.rf.f07afe6a86b472dedd1c423ed408a9ee.jpg",
+    "output": "output_images/helmet24_jpeg.rf.f07afe6a86b472dedd1c423ed408a9ee.jpg",
+    "total_violations": 2,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            777,
+            209,
+            901,
+            358
+          ],
+          "rider": 1,
+          "rider_box": [
+            764,
+            43,
+            949,
+            340
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "bus",
+          "bbox": [
+            2,
+            1,
+            548,
+            350
+          ],
+          "generated_plate": "HR90B6829"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:27:31",
+    "fines": {
+      "total_fines": 1500,
+      "fines_list": [
+        {
+          "fine_id": 1020,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:27:31",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1021,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:27:31",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 1500
+    }
+  },
+  {
+    "image": "input_images/helmet52_jpg.rf.931b5ca0b8403313412c5e20353157ba.jpg",
+    "output": "output_images/helmet52_jpg.rf.931b5ca0b8403313412c5e20353157ba.jpg",
+    "total_violations": 1,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            339,
+            376,
+            839,
+            597
+          ],
+          "rider": 1,
+          "rider_box": [
+            220,
+            92,
+            664,
+            569
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 3,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:28:01",
+    "fines": {
+      "total_fines": 500,
+      "fines_list": [
+        {
+          "fine_id": 1022,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:28:01",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 500
+    }
+  },
+  {
+    "image": "input_images/download (3).jpg",
+    "output": "output_images/download (3).jpg",
+    "total_violations": 2,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            198,
+            327,
+            938,
+            652
+          ],
+          "rider": 1,
+          "rider_box": [
+            284,
+            109,
+            911,
+            651
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            198,
+            327,
+            938,
+            652
+          ],
+          "generated_plate": "MP63EU1244"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:28:10",
+    "fines": {
+      "total_fines": 1500,
+      "fines_list": [
+        {
+          "fine_id": 1023,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:28:10",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1024,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:28:10",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 1500
+    }
+  },
+  {
+    "image": "input_images/helmet23_jpeg.rf.7297e8bd83ce2ef73d899cf6cead5b8d.jpg",
+    "output": "output_images/helmet23_jpeg.rf.7297e8bd83ce2ef73d899cf6cead5b8d.jpg",
+    "total_violations": 3,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            378,
+            272,
+            714,
+            689
+          ],
+          "rider": 2,
+          "rider_box": [
+            422,
+            96,
+            539,
+            277
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            378,
+            272,
+            714,
+            689
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            378,
+            272,
+            714,
+            689
+          ],
+          "generated_plate": "KA25YY7555"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 4,
+    "timestamp": "2025-11-28 13:28:19",
+    "fines": {
+      "total_fines": 1800,
+      "fines_list": [
+        {
+          "fine_id": 1025,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:28:19",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1026,
+          "violation_type": "triple_riding",
+          "amount": 300,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:28:19",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1027,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:28:19",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 1800
+    }
+  },
+  {
+    "image": "input_images/download.jpg",
+    "output": "output_images/download.jpg",
+    "total_violations": 10,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            582,
+            231,
+            920,
+            682
+          ],
+          "rider": 1,
+          "rider_box": [
+            598,
+            61,
+            928,
+            590
+          ]
+        },
+        {
+          "bbox": [
+            582,
+            231,
+            920,
+            682
+          ],
+          "rider": 2,
+          "rider_box": [
+            812,
+            62,
+            966,
+            471
+          ]
+        },
+        {
+          "bbox": [
+            915,
+            200,
+            1030,
+            484
+          ],
+          "rider": 1,
+          "rider_box": [
+            812,
+            62,
+            966,
+            471
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            3,
+            26,
+            391,
+            473
+          ],
+          "generated_plate": "MP93PM7615"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            582,
+            231,
+            920,
+            682
+          ],
+          "generated_plate": "HR88SJ1312"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            339,
+            8,
+            616,
+            253
+          ],
+          "generated_plate": "HR18J5007"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            388,
+            58,
+            677,
+            434
+          ],
+          "generated_plate": "UP82R5613"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            114,
+            9,
+            327,
+            144
+          ],
+          "generated_plate": "KA16MW9755"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            919,
+            193,
+            1030,
+            484
+          ],
+          "generated_plate": "DL14CB8480"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            915,
+            200,
+            1030,
+            484
+          ],
+          "generated_plate": "MP29RP3767"
+        }
+      ]
+    },
+    "vehicle_count": 7,
+    "person_count": 2,
+    "timestamp": "2025-11-28 13:28:53",
+    "fines": {
+      "total_fines": 8500,
+      "fines_list": [
+        {
+          "fine_id": 1028,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:28:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1029,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:28:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1030,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:28:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1031,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:28:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1032,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:28:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1033,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:28:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1034,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:28:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1035,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:28:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1036,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:28:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1037,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:28:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 8500
+    }
+  },
+  {
+    "image": "input_images/helmet42_jpg.rf.7cfbcde1fb16570c20a781733b7b5b19.jpg",
+    "output": "output_images/helmet42_jpg.rf.7cfbcde1fb16570c20a781733b7b5b19.jpg",
+    "total_violations": 7,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            129,
+            252,
+            325,
+            651
+          ],
+          "rider": 1,
+          "rider_box": [
+            144,
+            148,
+            213,
+            254
+          ]
+        },
+        {
+          "bbox": [
+            369,
+            287,
+            516,
+            560
+          ],
+          "rider": 1,
+          "rider_box": [
+            366,
+            171,
+            517,
+            475
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            0,
+            178,
+            170,
+            544
+          ],
+          "generated_plate": "UP39N3904"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            129,
+            252,
+            325,
+            651
+          ],
+          "generated_plate": "HR16P3283"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            369,
+            287,
+            516,
+            560
+          ],
+          "generated_plate": "WB24AG2759"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            461,
+            177,
+            720,
+            445
+          ],
+          "generated_plate": "TG43G6403"
+        },
+        {
+          "type": "bus",
+          "bbox": [
+            830,
+            75,
+            1027,
+            282
+          ],
+          "generated_plate": "KA36S4661"
+        }
+      ]
+    },
+    "vehicle_count": 7,
+    "person_count": 10,
+    "timestamp": "2025-11-28 13:29:16",
+    "fines": {
+      "total_fines": 6000,
+      "fines_list": [
+        {
+          "fine_id": 1038,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:29:16",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1039,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:29:16",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1040,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:29:16",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1041,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:29:16",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1042,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:29:16",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1043,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:29:16",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1044,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:29:16",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 6000
+    }
+  },
+  {
+    "image": "input_images/helmet1_jpg.rf.c72420c8dbca33016488a62c9979a61c.jpg",
+    "output": "output_images/helmet1_jpg.rf.c72420c8dbca33016488a62c9979a61c.jpg",
+    "total_violations": 0,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 0,
+    "person_count": 0,
+    "timestamp": "2025-11-28 13:29:16",
+    "fines": {
+      "total_fines": 0,
+      "fines_list": [],
+      "paid_fines": 0,
+      "pending_fines": 0
+    }
+  },
+  {
+    "image": "input_images/helmet27_jpeg.rf.dbadfa20610983ca50b9f3c721e7662d.jpg",
+    "output": "output_images/helmet27_jpeg.rf.dbadfa20610983ca50b9f3c721e7662d.jpg",
+    "total_violations": 1,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            441,
+            243,
+            849,
+            691
+          ]
+        }
+      ],
+      "no_number_plate": []
+    },
+    "vehicle_count": 4,
+    "person_count": 5,
+    "timestamp": "2025-11-28 13:29:36",
+    "fines": {
+      "total_fines": 300,
+      "fines_list": [
+        {
+          "fine_id": 1045,
+          "violation_type": "triple_riding",
+          "amount": 300,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:29:36",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 300
+    }
+  },
+  {
+    "image": "input_images/helmet6_jpg.rf.52e0cf3e2dc738f6488a15ad0e30af03.jpg",
+    "output": "output_images/helmet6_jpg.rf.52e0cf3e2dc738f6488a15ad0e30af03.jpg",
+    "total_violations": 3,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            557,
+            246,
+            980,
+            692
+          ],
+          "rider": 1,
+          "rider_box": [
+            593,
+            32,
+            902,
+            418
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            557,
+            246,
+            980,
+            692
+          ],
+          "generated_plate": "GJ40K6005"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            467,
+            77,
+            514,
+            155
+          ],
+          "generated_plate": "TG64TQ5701"
+        }
+      ]
+    },
+    "vehicle_count": 2,
+    "person_count": 2,
+    "timestamp": "2025-11-28 13:29:47",
+    "fines": {
+      "total_fines": 2500,
+      "fines_list": [
+        {
+          "fine_id": 1046,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:29:47",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1047,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:29:47",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1048,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:29:47",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 2500
+    }
+  },
+  {
+    "image": "input_images/helmet18_jpg.rf.0cf92fc7a60d4483e6a5061d9e229993.jpg",
+    "output": "output_images/helmet18_jpg.rf.0cf92fc7a60d4483e6a5061d9e229993.jpg",
+    "total_violations": 4,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "truck",
+          "bbox": [
+            0,
+            234,
+            255,
+            397
+          ],
+          "generated_plate": "KA75UV7270"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            902,
+            302,
+            1099,
+            394
+          ],
+          "generated_plate": "WB34I7867"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            214,
+            361,
+            712,
+            652
+          ],
+          "generated_plate": "DL38K8493"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            114,
+            206,
+            368,
+            444
+          ],
+          "generated_plate": "WB32G3118"
+        }
+      ]
+    },
+    "vehicle_count": 5,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:30:14",
+    "fines": {
+      "total_fines": 4000,
+      "fines_list": [
+        {
+          "fine_id": 1049,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:14",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1050,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:14",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1051,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:14",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1052,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:14",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 4000
+    }
+  },
+  {
+    "image": "input_images/helmet13_jpg.rf.547baef7252a2ef48379a2d84e1275bd.jpg",
+    "output": "output_images/helmet13_jpg.rf.547baef7252a2ef48379a2d84e1275bd.jpg",
+    "total_violations": 15,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            907,
+            326,
+            964,
+            429
+          ],
+          "rider": 2,
+          "rider_box": [
+            893,
+            243,
+            954,
+            354
+          ]
+        },
+        {
+          "bbox": [
+            780,
+            328,
+            900,
+            475
+          ],
+          "rider": 2,
+          "rider_box": [
+            893,
+            243,
+            954,
+            354
+          ]
+        },
+        {
+          "bbox": [
+            357,
+            292,
+            467,
+            357
+          ],
+          "rider": 2,
+          "rider_box": [
+            384,
+            242,
+            439,
+            317
+          ]
+        },
+        {
+          "bbox": [
+            298,
+            276,
+            476,
+            448
+          ],
+          "rider": 3,
+          "rider_box": [
+            384,
+            242,
+            439,
+            317
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            298,
+            276,
+            476,
+            448
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            0,
+            251,
+            232,
+            686
+          ],
+          "generated_plate": "RJ48M9829"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            66,
+            328,
+            474,
+            692
+          ],
+          "generated_plate": "MH12G2733"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            948,
+            262,
+            1051,
+            322
+          ],
+          "generated_plate": "GJ41R8280"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            907,
+            326,
+            964,
+            429
+          ],
+          "generated_plate": "UP23X4996"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            780,
+            328,
+            900,
+            475
+          ],
+          "generated_plate": "GJ77KV1943"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            1044,
+            264,
+            1093,
+            308
+          ],
+          "generated_plate": "AP13A3155"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            515,
+            262,
+            603,
+            357
+          ],
+          "generated_plate": "MH31BQ6663"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            1088,
+            275,
+            1099,
+            318
+          ],
+          "generated_plate": "KA88NB9032"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            357,
+            292,
+            467,
+            357
+          ],
+          "generated_plate": "TG09CH1920"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            400,
+            338,
+            478,
+            448
+          ],
+          "generated_plate": "RJ90IX6856"
+        }
+      ]
+    },
+    "vehicle_count": 13,
+    "person_count": 9,
+    "timestamp": "2025-11-28 13:30:44",
+    "fines": {
+      "total_fines": 12300,
+      "fines_list": [
+        {
+          "fine_id": 1053,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:44",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1054,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:44",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1055,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:44",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1056,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:44",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1057,
+          "violation_type": "triple_riding",
+          "amount": 300,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:44",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1058,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:44",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1059,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:44",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1060,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:44",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1061,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:44",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1062,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:44",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1063,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:44",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1064,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:44",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1065,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:44",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1066,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:44",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1067,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:30:44",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 12300
+    }
+  },
+  {
+    "image": "input_images/helmet17_jpg.rf.fe3b0103c81f6ea6bef6570e1da39fad.jpg",
+    "output": "output_images/helmet17_jpg.rf.fe3b0103c81f6ea6bef6570e1da39fad.jpg",
+    "total_violations": 1,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            289,
+            231,
+            736,
+            679
+          ],
+          "rider": 1,
+          "rider_box": [
+            286,
+            29,
+            608,
+            537
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 5,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:31:04",
+    "fines": {
+      "total_fines": 500,
+      "fines_list": [
+        {
+          "fine_id": 1068,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:04",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 500
+    }
+  },
+  {
+    "image": "input_images/download (7).jpg",
+    "output": "output_images/download (7).jpg",
+    "total_violations": 5,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            271,
+            259,
+            842,
+            689
+          ],
+          "rider": 4,
+          "rider_box": [
+            712,
+            89,
+            791,
+            315
+          ]
+        },
+        {
+          "bbox": [
+            972,
+            127,
+            1097,
+            231
+          ],
+          "rider": 1,
+          "rider_box": [
+            969,
+            82,
+            1050,
+            205
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 4,
+          "bbox": [
+            271,
+            259,
+            842,
+            689
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            271,
+            259,
+            842,
+            689
+          ],
+          "generated_plate": "MP10Y1111"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            972,
+            127,
+            1097,
+            231
+          ],
+          "generated_plate": "WB49SZ9119"
+        }
+      ]
+    },
+    "vehicle_count": 2,
+    "person_count": 6,
+    "timestamp": "2025-11-28 13:31:18",
+    "fines": {
+      "total_fines": 3300,
+      "fines_list": [
+        {
+          "fine_id": 1069,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:18",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1070,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:18",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1071,
+          "violation_type": "triple_riding",
+          "amount": 300,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:18",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1072,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:18",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1073,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:18",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 3300
+    }
+  },
+  {
+    "image": "input_images/download (6).jpg",
+    "output": "output_images/download (6).jpg",
+    "total_violations": 8,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            225,
+            187,
+            768,
+            542
+          ],
+          "rider": 1,
+          "rider_box": [
+            369,
+            77,
+            485,
+            434
+          ]
+        },
+        {
+          "bbox": [
+            225,
+            187,
+            768,
+            542
+          ],
+          "rider": 2,
+          "rider_box": [
+            422,
+            50,
+            589,
+            549
+          ]
+        },
+        {
+          "bbox": [
+            225,
+            187,
+            768,
+            542
+          ],
+          "rider": 3,
+          "rider_box": [
+            289,
+            69,
+            425,
+            463
+          ]
+        },
+        {
+          "bbox": [
+            1010,
+            162,
+            1098,
+            231
+          ],
+          "rider": 1,
+          "rider_box": [
+            1026,
+            127,
+            1059,
+            208
+          ]
+        },
+        {
+          "bbox": [
+            1010,
+            162,
+            1098,
+            231
+          ],
+          "rider": 2,
+          "rider_box": [
+            1054,
+            144,
+            1085,
+            209
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            225,
+            187,
+            768,
+            542
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            225,
+            187,
+            768,
+            542
+          ],
+          "generated_plate": "RJ41YH4681"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            1010,
+            162,
+            1098,
+            231
+          ],
+          "generated_plate": "TN02VL3297"
+        }
+      ]
+    },
+    "vehicle_count": 3,
+    "person_count": 5,
+    "timestamp": "2025-11-28 13:31:30",
+    "fines": {
+      "total_fines": 4800,
+      "fines_list": [
+        {
+          "fine_id": 1074,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:30",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1075,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:30",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1076,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:30",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1077,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:30",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1078,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:30",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1079,
+          "violation_type": "triple_riding",
+          "amount": 300,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:30",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1080,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:30",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1081,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:30",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 4800
+    }
+  },
+  {
+    "image": "input_images/helmet10_jpg.rf.da95005d87afb625e44052ffad9d194c.jpg",
+    "output": "output_images/helmet10_jpg.rf.da95005d87afb625e44052ffad9d194c.jpg",
+    "total_violations": 0,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 0,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:31:30",
+    "fines": {
+      "total_fines": 0,
+      "fines_list": [],
+      "paid_fines": 0,
+      "pending_fines": 0
+    }
+  },
+  {
+    "image": "input_images/helmet35_jpeg.rf.f128d848f64109e7fe1e216528dffa70.jpg",
+    "output": "output_images/helmet35_jpeg.rf.f128d848f64109e7fe1e216528dffa70.jpg",
+    "total_violations": 4,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            288,
+            195,
+            1029,
+            654
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            11,
+            117,
+            577,
+            368
+          ],
+          "generated_plate": "WB27ND6421"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            288,
+            195,
+            1029,
+            654
+          ],
+          "generated_plate": "WB73L8989"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            1002,
+            102,
+            1099,
+            294
+          ],
+          "generated_plate": "GJ91J5949"
+        }
+      ]
+    },
+    "vehicle_count": 3,
+    "person_count": 3,
+    "timestamp": "2025-11-28 13:31:53",
+    "fines": {
+      "total_fines": 3300,
+      "fines_list": [
+        {
+          "fine_id": 1082,
+          "violation_type": "triple_riding",
+          "amount": 300,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1083,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1084,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1085,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:31:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 3300
+    }
+  },
+  {
+    "image": "input_images/download (5).jpg",
+    "output": "output_images/download (5).jpg",
+    "total_violations": 3,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            67,
+            306,
+            1050,
+            679
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            67,
+            306,
+            1050,
+            679
+          ],
+          "generated_plate": "AP30Z4320"
+        },
+        {
+          "type": "bus",
+          "bbox": [
+            459,
+            171,
+            578,
+            304
+          ],
+          "generated_plate": "MH31I8804"
+        }
+      ]
+    },
+    "vehicle_count": 4,
+    "person_count": 3,
+    "timestamp": "2025-11-28 13:32:15",
+    "fines": {
+      "total_fines": 2300,
+      "fines_list": [
+        {
+          "fine_id": 1086,
+          "violation_type": "triple_riding",
+          "amount": 300,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:32:15",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1087,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:32:15",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1088,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:32:15",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 2300
+    }
+  },
+  {
+    "image": "input_images/helmet54_jpeg.rf.c7bd370f7edaf67cd2fbb201f53f7cb6.jpg",
+    "output": "output_images/helmet54_jpeg.rf.c7bd370f7edaf67cd2fbb201f53f7cb6.jpg",
+    "total_violations": 6,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            425,
+            237,
+            491,
+            277
+          ],
+          "generated_plate": "TG26BU9313"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            510,
+            371,
+            747,
+            587
+          ],
+          "generated_plate": "KA95ZI4757"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            779,
+            211,
+            949,
+            304
+          ],
+          "generated_plate": "GJ59JX1705"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            300,
+            231,
+            361,
+            273
+          ],
+          "generated_plate": "RJ13C1601"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            780,
+            211,
+            949,
+            304
+          ],
+          "generated_plate": "MP90X6813"
+        },
+        {
+          "type": "bus",
+          "bbox": [
+            779,
+            211,
+            949,
+            304
+          ],
+          "generated_plate": "TG49X9247"
+        }
+      ]
+    },
+    "vehicle_count": 6,
+    "person_count": 2,
+    "timestamp": "2025-11-28 13:32:26",
+    "fines": {
+      "total_fines": 6000,
+      "fines_list": [
+        {
+          "fine_id": 1089,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:32:26",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1090,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:32:26",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1091,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:32:26",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1092,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:32:26",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1093,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:32:26",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1094,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:32:26",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 6000
+    }
+  },
+  {
+    "image": "input_images/helmet28_jpeg.rf.b4d3f7f91beec0b397ae3b2223b58194.jpg",
+    "output": "output_images/helmet28_jpeg.rf.b4d3f7f91beec0b397ae3b2223b58194.jpg",
+    "total_violations": 6,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            409,
+            360,
+            980,
+            692
+          ],
+          "rider": 1,
+          "rider_box": [
+            442,
+            70,
+            860,
+            691
+          ]
+        },
+        {
+          "bbox": [
+            740,
+            155,
+            977,
+            453
+          ],
+          "rider": 1,
+          "rider_box": [
+            442,
+            70,
+            860,
+            691
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            0,
+            287,
+            433,
+            680
+          ],
+          "generated_plate": "UP93YR8815"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            409,
+            360,
+            980,
+            692
+          ],
+          "generated_plate": "KA51FL6152"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            740,
+            155,
+            977,
+            453
+          ],
+          "generated_plate": "WB54GY1209"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            955,
+            45,
+            1054,
+            177
+          ],
+          "generated_plate": "WB43X3067"
+        }
+      ]
+    },
+    "vehicle_count": 4,
+    "person_count": 3,
+    "timestamp": "2025-11-28 13:32:57",
+    "fines": {
+      "total_fines": 5000,
+      "fines_list": [
+        {
+          "fine_id": 1095,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:32:57",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1096,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:32:57",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1097,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:32:57",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1098,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:32:57",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1099,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:32:57",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1100,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:32:57",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 5000
+    }
+  },
+  {
+    "image": "input_images/helmet14_jpg.rf.539f867a2354d9577c7d51b0f9f83f45.jpg",
+    "output": "output_images/helmet14_jpg.rf.539f867a2354d9577c7d51b0f9f83f45.jpg",
+    "total_violations": 7,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            32,
+            224,
+            366,
+            690
+          ],
+          "generated_plate": "TG44QZ6466"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            332,
+            233,
+            725,
+            567
+          ],
+          "generated_plate": "DL43K9787"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            677,
+            145,
+            1099,
+            513
+          ],
+          "generated_plate": "TG32Q3475"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            0,
+            103,
+            45,
+            416
+          ],
+          "generated_plate": "MH37EF6480"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            795,
+            110,
+            965,
+            158
+          ],
+          "generated_plate": "MH52V2399"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            83,
+            68,
+            505,
+            346
+          ],
+          "generated_plate": "HR83XY6528"
+        },
+        {
+          "type": "bus",
+          "bbox": [
+            0,
+            2,
+            429,
+            87
+          ],
+          "generated_plate": "MH09XY6802"
+        }
+      ]
+    },
+    "vehicle_count": 10,
+    "person_count": 8,
+    "timestamp": "2025-11-28 13:33:33",
+    "fines": {
+      "total_fines": 7000,
+      "fines_list": [
+        {
+          "fine_id": 1101,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:33:33",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1102,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:33:33",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1103,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:33:33",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1104,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:33:33",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1105,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:33:33",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1106,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:33:33",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1107,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:33:33",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 7000
+    }
+  },
+  {
+    "image": "input_images/helmet3_jpg.rf.715805541179e2a12ed1ff581b2baadd.jpg",
+    "output": "output_images/helmet3_jpg.rf.715805541179e2a12ed1ff581b2baadd.jpg",
+    "total_violations": 13,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            0,
+            246,
+            281,
+            691
+          ],
+          "rider": 1,
+          "rider_box": [
+            0,
+            55,
+            275,
+            596
+          ]
+        },
+        {
+          "bbox": [
+            510,
+            260,
+            778,
+            692
+          ],
+          "rider": 2,
+          "rider_box": [
+            774,
+            153,
+            823,
+            316
+          ]
+        },
+        {
+          "bbox": [
+            510,
+            260,
+            778,
+            692
+          ],
+          "rider": 3,
+          "rider_box": [
+            691,
+            78,
+            790,
+            333
+          ]
+        },
+        {
+          "bbox": [
+            966,
+            269,
+            1099,
+            551
+          ],
+          "rider": 1,
+          "rider_box": [
+            962,
+            111,
+            1099,
+            301
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            510,
+            260,
+            778,
+            692
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            0,
+            246,
+            281,
+            691
+          ],
+          "generated_plate": "AP20W8846"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            510,
+            260,
+            778,
+            692
+          ],
+          "generated_plate": "AP64UX7436"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            811,
+            124,
+            967,
+            342
+          ],
+          "generated_plate": "TG49Q1643"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            0,
+            158,
+            392,
+            369
+          ],
+          "generated_plate": "RJ32G1803"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            966,
+            269,
+            1099,
+            551
+          ],
+          "generated_plate": "HR19D9364"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            383,
+            76,
+            612,
+            444
+          ],
+          "generated_plate": "UP82R9846"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            383,
+            77,
+            612,
+            443
+          ],
+          "generated_plate": "DL31R1005"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            744,
+            325,
+            799,
+            517
+          ],
+          "generated_plate": "MH50Y1630"
+        }
+      ]
+    },
+    "vehicle_count": 8,
+    "person_count": 6,
+    "timestamp": "2025-11-28 13:34:12",
+    "fines": {
+      "total_fines": 10300,
+      "fines_list": [
+        {
+          "fine_id": 1108,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1109,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1110,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1111,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1112,
+          "violation_type": "triple_riding",
+          "amount": 300,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1113,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1114,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1115,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1116,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1117,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1118,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1119,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1120,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:12",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 10300
+    }
+  },
+  {
+    "image": "input_images/helmet44_jpg.rf.a47f6ed7b3b48f981714bb451ea5b2e1.jpg",
+    "output": "output_images/helmet44_jpg.rf.a47f6ed7b3b48f981714bb451ea5b2e1.jpg",
+    "total_violations": 8,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            648,
+            180,
+            910,
+            659
+          ],
+          "rider": 1,
+          "rider_box": [
+            655,
+            14,
+            930,
+            525
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            153,
+            147,
+            449,
+            614
+          ],
+          "generated_plate": "TG69M2636"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            876,
+            122,
+            1099,
+            305
+          ],
+          "generated_plate": "WB56R2828"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            648,
+            180,
+            910,
+            659
+          ],
+          "generated_plate": "KA74B1238"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            553,
+            110,
+            586,
+            195
+          ],
+          "generated_plate": "TG31HN2990"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            448,
+            104,
+            529,
+            199
+          ],
+          "generated_plate": "MP59UH4423"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            58,
+            86,
+            277,
+            302
+          ],
+          "generated_plate": "MH59OF3202"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            522,
+            112,
+            568,
+            174
+          ],
+          "generated_plate": "DL93J1580"
+        }
+      ]
+    },
+    "vehicle_count": 8,
+    "person_count": 3,
+    "timestamp": "2025-11-28 13:34:37",
+    "fines": {
+      "total_fines": 7500,
+      "fines_list": [
+        {
+          "fine_id": 1121,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:37",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1122,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:37",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1123,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:37",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1124,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:37",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1125,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:37",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1126,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:37",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1127,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:37",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1128,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:37",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 7500
+    }
+  },
+  {
+    "image": "input_images/helmet31_jpg.rf.0267a448aa38e0e017556bf8fd954e24.jpg",
+    "output": "output_images/helmet31_jpg.rf.0267a448aa38e0e017556bf8fd954e24.jpg",
+    "total_violations": 3,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            422,
+            179,
+            749,
+            694
+          ],
+          "rider": 3,
+          "rider_box": [
+            411,
+            13,
+            543,
+            606
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            422,
+            179,
+            749,
+            694
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            422,
+            179,
+            749,
+            694
+          ],
+          "generated_plate": "TN54BT7426"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 3,
+    "timestamp": "2025-11-28 13:34:45",
+    "fines": {
+      "total_fines": 1800,
+      "fines_list": [
+        {
+          "fine_id": 1129,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:45",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1130,
+          "violation_type": "triple_riding",
+          "amount": 300,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:45",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1131,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:34:45",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 1800
+    }
+  },
+  {
+    "image": "input_images/helmet34_jpeg.rf.577468e9a65ad0c66ba7c9c8019264d0.jpg",
+    "output": "output_images/helmet34_jpeg.rf.577468e9a65ad0c66ba7c9c8019264d0.jpg",
+    "total_violations": 5,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            497,
+            78,
+            580,
+            131
+          ],
+          "generated_plate": "TG02GF7944"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            1,
+            524,
+            658,
+            688
+          ],
+          "generated_plate": "WB04UT7505"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            535,
+            66,
+            787,
+            261
+          ],
+          "generated_plate": "GJ98M5300"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            979,
+            85,
+            1099,
+            200
+          ],
+          "generated_plate": "MP65AA3318"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            620,
+            237,
+            961,
+            458
+          ],
+          "generated_plate": "TG70Y1053"
+        }
+      ]
+    },
+    "vehicle_count": 5,
+    "person_count": 0,
+    "timestamp": "2025-11-28 13:35:04",
+    "fines": {
+      "total_fines": 5000,
+      "fines_list": [
+        {
+          "fine_id": 1132,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:35:04",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1133,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:35:04",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1134,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:35:04",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1135,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:35:04",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1136,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:35:04",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 5000
+    }
+  },
+  {
+    "image": "input_images/download (1).jpg",
+    "output": "output_images/download (1).jpg",
+    "total_violations": 3,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            113,
+            331,
+            819,
+            689
+          ],
+          "rider": 1,
+          "rider_box": [
+            151,
+            2,
+            768,
+            690
+          ]
+        },
+        {
+          "bbox": [
+            113,
+            331,
+            819,
+            689
+          ],
+          "rider": 2,
+          "rider_box": [
+            432,
+            31,
+            828,
+            521
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            113,
+            331,
+            819,
+            689
+          ],
+          "generated_plate": "TN02KD1157"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 2,
+    "timestamp": "2025-11-28 13:35:13",
+    "fines": {
+      "total_fines": 2000,
+      "fines_list": [
+        {
+          "fine_id": 1137,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:35:13",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1138,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:35:13",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1139,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:35:13",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 2000
+    }
+  },
+  {
+    "image": "input_images/helmet16_jpg.rf.a36b07003728d06c90068f3fb5871cdd.jpg",
+    "output": "output_images/helmet16_jpg.rf.a36b07003728d06c90068f3fb5871cdd.jpg",
+    "total_violations": 1,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            563,
+            230,
+            874,
+            596
+          ],
+          "rider": 1,
+          "rider_box": [
+            660,
+            31,
+            944,
+            477
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 2,
+    "person_count": 9,
+    "timestamp": "2025-11-28 13:35:24",
+    "fines": {
+      "total_fines": 500,
+      "fines_list": [
+        {
+          "fine_id": 1140,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:35:24",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 500
+    }
+  },
+  {
+    "image": "input_images/helmet39_jpg.rf.0f2d8d1a9a8168fb507b5b79085cdead.jpg",
+    "output": "output_images/helmet39_jpg.rf.0f2d8d1a9a8168fb507b5b79085cdead.jpg",
+    "total_violations": 2,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            326,
+            252,
+            733,
+            691
+          ],
+          "rider": 1,
+          "rider_box": [
+            349,
+            99,
+            759,
+            565
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            326,
+            252,
+            733,
+            691
+          ],
+          "generated_plate": "GJ12D4346"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:35:33",
+    "fines": {
+      "total_fines": 1500,
+      "fines_list": [
+        {
+          "fine_id": 1141,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:35:33",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1142,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:35:33",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 1500
+    }
+  },
+  {
+    "image": "input_images/download (4).jpg",
+    "output": "output_images/download (4).jpg",
+    "total_violations": 3,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            410,
+            189,
+            749,
+            692
+          ],
+          "rider": 3,
+          "rider_box": [
+            409,
+            17,
+            542,
+            348
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            410,
+            189,
+            749,
+            692
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            410,
+            189,
+            749,
+            692
+          ],
+          "generated_plate": "WB67TO2503"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 3,
+    "timestamp": "2025-11-28 13:35:41",
+    "fines": {
+      "total_fines": 1800,
+      "fines_list": [
+        {
+          "fine_id": 1143,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:35:41",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1144,
+          "violation_type": "triple_riding",
+          "amount": 300,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:35:41",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1145,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:35:41",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 1800
+    }
+  },
+  {
+    "image": "input_images/helmet4_jpg.rf.4191fa580cb44ef3e6cb588b61094e04.jpg",
+    "output": "output_images/helmet4_jpg.rf.4191fa580cb44ef3e6cb588b61094e04.jpg",
+    "total_violations": 0,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 0,
+    "person_count": 0,
+    "timestamp": "2025-11-28 13:35:41",
+    "fines": {
+      "total_fines": 0,
+      "fines_list": [],
+      "paid_fines": 0,
+      "pending_fines": 0
+    }
+  },
+  {
+    "image": "input_images/helmet5_jpg.rf.7249f5efbe2163b3ca5b0179c0004074.jpg",
+    "output": "output_images/helmet5_jpg.rf.7249f5efbe2163b3ca5b0179c0004074.jpg",
+    "total_violations": 0,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 0,
+    "person_count": 0,
+    "timestamp": "2025-11-28 13:35:41",
+    "fines": {
+      "total_fines": 0,
+      "fines_list": [],
+      "paid_fines": 0,
+      "pending_fines": 0
+    }
+  },
+  {
+    "image": "input_images/helmet46_jpeg.rf.9c09b348f8018b60f8cbce0652eab9fb.jpg",
+    "output": "output_images/helmet46_jpeg.rf.9c09b348f8018b60f8cbce0652eab9fb.jpg",
+    "total_violations": 1,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            8,
+            46,
+            782,
+            649
+          ],
+          "generated_plate": "WB17Q8267"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:35:58",
+    "fines": {
+      "total_fines": 1000,
+      "fines_list": [
+        {
+          "fine_id": 1146,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:35:58",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 1000
+    }
+  },
+  {
+    "image": "input_images/helmet8_png.rf.6d6e7e3793ba4219ff3db0b85ca9ad8c.jpg",
+    "output": "output_images/helmet8_png.rf.6d6e7e3793ba4219ff3db0b85ca9ad8c.jpg",
+    "total_violations": 4,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            121,
+            286,
+            879,
+            677
+          ],
+          "rider": 1,
+          "rider_box": [
+            63,
+            65,
+            1007,
+            603
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            121,
+            286,
+            879,
+            677
+          ],
+          "generated_plate": "TG12DU5990"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            64,
+            66,
+            890,
+            671
+          ],
+          "generated_plate": "HR77GI7867"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            4,
+            161,
+            241,
+            266
+          ],
+          "generated_plate": "RJ73KA8062"
+        }
+      ]
+    },
+    "vehicle_count": 3,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:36:33",
+    "fines": {
+      "total_fines": 3500,
+      "fines_list": [
+        {
+          "fine_id": 1147,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:36:33",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1148,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:36:33",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1149,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:36:33",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1150,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:36:33",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 3500
+    }
+  },
+  {
+    "image": "input_images/helmet26_jpeg.rf.c669f418144015cba5693d2e4a298def.jpg",
+    "output": "output_images/helmet26_jpeg.rf.c669f418144015cba5693d2e4a298def.jpg",
+    "total_violations": 0,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": []
+    },
+    "vehicle_count": 0,
+    "person_count": 5,
+    "timestamp": "2025-11-28 13:36:33",
+    "fines": {
+      "total_fines": 0,
+      "fines_list": [],
+      "paid_fines": 0,
+      "pending_fines": 0
+    }
+  },
+  {
+    "image": "input_images/helmet32_jpg.rf.55b4d019ba2b445b0ac0e5021883fd81.jpg",
+    "output": "output_images/helmet32_jpg.rf.55b4d019ba2b445b0ac0e5021883fd81.jpg",
+    "total_violations": 5,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            807,
+            409,
+            999,
+            694
+          ],
+          "rider": 1,
+          "rider_box": [
+            780,
+            269,
+            1023,
+            651
+          ]
+        },
+        {
+          "bbox": [
+            48,
+            224,
+            266,
+            373
+          ],
+          "rider": 2,
+          "rider_box": [
+            34,
+            160,
+            114,
+            264
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            912,
+            156,
+            1099,
+            344
+          ],
+          "generated_plate": "RJ59AI4855"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            807,
+            409,
+            999,
+            694
+          ],
+          "generated_plate": "AP35B7143"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            48,
+            224,
+            266,
+            373
+          ],
+          "generated_plate": "TN87X7300"
+        }
+      ]
+    },
+    "vehicle_count": 3,
+    "person_count": 5,
+    "timestamp": "2025-11-28 13:36:40",
+    "fines": {
+      "total_fines": 4000,
+      "fines_list": [
+        {
+          "fine_id": 1151,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:36:40",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1152,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:36:40",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1153,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:36:40",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1154,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:36:40",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1155,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:36:40",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 4000
+    }
+  },
+  {
+    "image": "input_images/helmet48_jpg.rf.c28c7118da041b96f122e7c9b65568ad.jpg",
+    "output": "output_images/helmet48_jpg.rf.c28c7118da041b96f122e7c9b65568ad.jpg",
+    "total_violations": 4,
+    "violations": {
+      "no_helmet": [],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "bus",
+          "bbox": [
+            3,
+            1,
+            248,
+            149
+          ],
+          "generated_plate": "WB26L1717"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            416,
+            312,
+            726,
+            677
+          ],
+          "generated_plate": "MH32W7482"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            613,
+            0,
+            888,
+            138
+          ],
+          "generated_plate": "WB13Z8366"
+        },
+        {
+          "type": "car",
+          "bbox": [
+            336,
+            15,
+            416,
+            75
+          ],
+          "generated_plate": "RJ03X6330"
+        }
+      ]
+    },
+    "vehicle_count": 4,
+    "person_count": 3,
+    "timestamp": "2025-11-28 13:36:53",
+    "fines": {
+      "total_fines": 4000,
+      "fines_list": [
+        {
+          "fine_id": 1156,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:36:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1157,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:36:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1158,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:36:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1159,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:36:53",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 4000
+    }
+  },
+  {
+    "image": "input_images/helmet29_jpg.rf.5f10d302a7ad2751b95037846bd4d0f5.jpg",
+    "output": "output_images/helmet29_jpg.rf.5f10d302a7ad2751b95037846bd4d0f5.jpg",
+    "total_violations": 16,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            362,
+            297,
+            635,
+            694
+          ],
+          "rider": 1,
+          "rider_box": [
+            240,
+            92,
+            451,
+            692
+          ]
+        },
+        {
+          "bbox": [
+            362,
+            297,
+            635,
+            694
+          ],
+          "rider": 2,
+          "rider_box": [
+            455,
+            168,
+            911,
+            693
+          ]
+        },
+        {
+          "bbox": [
+            362,
+            297,
+            635,
+            694
+          ],
+          "rider": 3,
+          "rider_box": [
+            440,
+            202,
+            704,
+            435
+          ]
+        },
+        {
+          "bbox": [
+            558,
+            370,
+            999,
+            694
+          ],
+          "rider": 1,
+          "rider_box": [
+            455,
+            168,
+            911,
+            693
+          ]
+        },
+        {
+          "bbox": [
+            558,
+            370,
+            999,
+            694
+          ],
+          "rider": 2,
+          "rider_box": [
+            440,
+            202,
+            704,
+            435
+          ]
+        },
+        {
+          "bbox": [
+            7,
+            339,
+            279,
+            691
+          ],
+          "rider": 1,
+          "rider_box": [
+            240,
+            92,
+            451,
+            692
+          ]
+        },
+        {
+          "bbox": [
+            7,
+            339,
+            279,
+            691
+          ],
+          "rider": 2,
+          "rider_box": [
+            70,
+            219,
+            107,
+            359
+          ]
+        },
+        {
+          "bbox": [
+            7,
+            339,
+            279,
+            691
+          ],
+          "rider": 3,
+          "rider_box": [
+            124,
+            167,
+            288,
+            650
+          ]
+        },
+        {
+          "bbox": [
+            7,
+            339,
+            279,
+            691
+          ],
+          "rider": 4,
+          "rider_box": [
+            124,
+            168,
+            255,
+            381
+          ]
+        }
+      ],
+      "triple_riding": [
+        {
+          "riders": 3,
+          "bbox": [
+            362,
+            297,
+            635,
+            694
+          ]
+        },
+        {
+          "riders": 4,
+          "bbox": [
+            7,
+            339,
+            279,
+            691
+          ]
+        }
+      ],
+      "no_number_plate": [
+        {
+          "type": "car",
+          "bbox": [
+            795,
+            239,
+            1099,
+            601
+          ],
+          "generated_plate": "KA47Q1557"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            362,
+            297,
+            635,
+            694
+          ],
+          "generated_plate": "GJ68B6812"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            558,
+            370,
+            999,
+            694
+          ],
+          "generated_plate": "DL81CC4471"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            7,
+            339,
+            279,
+            691
+          ],
+          "generated_plate": "TG65U7698"
+        },
+        {
+          "type": "truck",
+          "bbox": [
+            593,
+            122,
+            824,
+            302
+          ],
+          "generated_plate": "KA52I1413"
+        }
+      ]
+    },
+    "vehicle_count": 5,
+    "person_count": 6,
+    "timestamp": "2025-11-28 13:37:17",
+    "fines": {
+      "total_fines": 10100,
+      "fines_list": [
+        {
+          "fine_id": 1160,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:17",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1161,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:17",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1162,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:17",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1163,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:17",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1164,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:17",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1165,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:17",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1166,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:17",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1167,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:17",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1168,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:17",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1169,
+          "violation_type": "triple_riding",
+          "amount": 300,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:17",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1170,
+          "violation_type": "triple_riding",
+          "amount": 300,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:17",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1171,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:17",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1172,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:17",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1173,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:17",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1174,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:17",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1175,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:17",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 10100
+    }
+  },
+  {
+    "image": "input_images/helmet25_jpeg.rf.c48bcacd286004afa388d7034272d671.jpg",
+    "output": "output_images/helmet25_jpeg.rf.c48bcacd286004afa388d7034272d671.jpg",
+    "total_violations": 4,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            1014,
+            212,
+            1098,
+            373
+          ],
+          "rider": 1,
+          "rider_box": [
+            1011,
+            171,
+            1099,
+            272
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            377,
+            343,
+            661,
+            687
+          ],
+          "generated_plate": "AP02CS2152"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            1014,
+            212,
+            1098,
+            373
+          ],
+          "generated_plate": "RJ36GF9124"
+        },
+        {
+          "type": "motorcycle",
+          "bbox": [
+            779,
+            261,
+            832,
+            402
+          ],
+          "generated_plate": "KA75JA3903"
+        }
+      ]
+    },
+    "vehicle_count": 3,
+    "person_count": 4,
+    "timestamp": "2025-11-28 13:37:28",
+    "fines": {
+      "total_fines": 3500,
+      "fines_list": [
+        {
+          "fine_id": 1176,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:28",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1177,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:28",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1178,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:28",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1179,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:28",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 3500
+    }
+  },
+  {
+    "image": "input_images/helmet55_jpeg.rf.b7e15891c8c3f2faebdf03ad4e451fee.jpg",
+    "output": "output_images/helmet55_jpeg.rf.b7e15891c8c3f2faebdf03ad4e451fee.jpg",
+    "total_violations": 2,
+    "violations": {
+      "no_helmet": [
+        {
+          "bbox": [
+            329,
+            216,
+            857,
+            502
+          ],
+          "rider": 1,
+          "rider_box": [
+            325,
+            62,
+            784,
+            453
+          ]
+        }
+      ],
+      "triple_riding": [],
+      "no_number_plate": [
+        {
+          "type": "motorcycle",
+          "bbox": [
+            329,
+            216,
+            857,
+            502
+          ],
+          "generated_plate": "HR46A1257"
+        }
+      ]
+    },
+    "vehicle_count": 1,
+    "person_count": 1,
+    "timestamp": "2025-11-28 13:37:38",
+    "fines": {
+      "total_fines": 1500,
+      "fines_list": [
+        {
+          "fine_id": 1180,
+          "violation_type": "no_helmet",
+          "amount": 500,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:38",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        },
+        {
+          "fine_id": 1181,
+          "violation_type": "no_number_plate",
+          "amount": 1000,
+          "status": "pending",
+          "issued_date": "2025-11-28 13:37:38",
+          "paid_date": null,
+          "payment_method": null,
+          "remarks": ""
+        }
+      ],
+      "paid_fines": 0,
+      "pending_fines": 1500
+    }
+  }
+]
