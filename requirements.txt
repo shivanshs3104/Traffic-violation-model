@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-pillow
-torch
-ultralytics
-easyocr
-opencv-python
-pandas
-python-multipart
