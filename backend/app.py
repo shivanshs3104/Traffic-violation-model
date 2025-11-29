@@ -6,13 +6,26 @@ import os
 from datetime import datetime, timedelta
 import csv
 from functools import wraps
+from PIL import Image
+import io
+from urllib.parse import urlparse
+import requests
+
+MODEL = None  # Lazy-loaded YOLO model (set via MODEL_PATH env)
 
 app = Flask(__name__)
-CORS(app)
 
-# JWT Configuration
-app.config['JWT_SECRET_KEY'] = 'your-secret-key-change-in-production'
-app.config['JWT_ACCESS_TOKEN_EXPIRES'] = timedelta(days=30)
+# CORS origins configurable via env (comma separated), default * for demo
+allowed_origins = os.getenv('CORS_ALLOW_ORIGINS', '*')
+if allowed_origins == '*':
+    CORS(app)
+else:
+    CORS(app, resources={r"/api/*": {"origins": [o.strip() for o in allowed_origins.split(',') if o.strip()]}})
+
+# JWT Configuration via env
+app.config['JWT_SECRET_KEY'] = os.getenv('JWT_SECRET_KEY', 'dev-insecure-change-me')
+token_days = int(os.getenv('JWT_ACCESS_TOKEN_DAYS', '30'))
+app.config['JWT_ACCESS_TOKEN_EXPIRES'] = timedelta(days=token_days)
 jwt = JWTManager(app)
 
 # Hardcoded users (In production, use database)
@@ -21,28 +34,40 @@ USERS = {
     'user': 'user123'
 }
 
-# Path to violations report
-VIOLATIONS_REPORT_PATH = os.path.join(
+# Allow overriding paths via environment (to avoid parent dir dependency in container)
+DEFAULT_VIOLATIONS_PATH = os.path.join(
     os.path.dirname(__file__),
-    '..',
-    'traffic-signal-violation-detection',
-    'result',
-    'violations_report (1).json'
+    'data',
+    'violations_report.json'
 )
+VIOLATIONS_REPORT_PATH = os.getenv('VIOLATIONS_PATH', DEFAULT_VIOLATIONS_PATH)
 
-# Path to images directory
-IMAGES_BASE_PATH = os.path.join(
+DEFAULT_IMAGES_PATH = os.path.join(
     os.path.dirname(__file__),
-    '..',
-    'traffic-signal-violation-detection'
+    'data'
 )
+IMAGES_BASE_PATH = os.getenv('IMAGES_PATH', DEFAULT_IMAGES_PATH)
 
 
 def load_violations():
-    """Load violations data from JSON file"""
+    """Load violations data from local JSON file or remote URL if provided."""
+    if not VIOLATIONS_REPORT_PATH:
+        return []
     try:
-        with open(VIOLATIONS_REPORT_PATH, 'r', encoding='utf-8') as f:
-            return json.load(f)
+        parsed = urlparse(VIOLATIONS_REPORT_PATH)
+        if parsed.scheme in ("http", "https"):
+            resp = requests.get(VIOLATIONS_REPORT_PATH, timeout=10)
+            resp.raise_for_status()
+            data = resp.json()
+        else:
+            with open(VIOLATIONS_REPORT_PATH, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+        # Support either list of violations or object with 'violations'
+        if isinstance(data, dict) and 'violations' in data:
+            return data.get('violations', [])
+        if isinstance(data, list):
+            return data
+        return []
     except Exception as e:
         print(f"Error loading violations: {e}")
         return []
@@ -399,10 +424,30 @@ def mark_fine_paid():
 @app.route('/api/health', methods=['GET'])
 def health():
     """Health check endpoint"""
+    violations = load_violations()
+    parsed = urlparse(VIOLATIONS_REPORT_PATH or '')
+    is_remote = parsed.scheme in ("http", "https")
+    exists = False
+    try:
+        if VIOLATIONS_REPORT_PATH:
+            if is_remote:
+                # HEAD may be blocked by some hosts; fall back to GET status if needed
+                try:
+                    r = requests.head(VIOLATIONS_REPORT_PATH, timeout=5)
+                    exists = r.status_code == 200
+                except Exception:
+                    r = requests.get(VIOLATIONS_REPORT_PATH, timeout=5)
+                    exists = r.status_code == 200
+            else:
+                exists = os.path.exists(VIOLATIONS_REPORT_PATH)
+    except Exception:
+        exists = False
     return jsonify({
         'status': 'healthy',
-        'violations_file_exists': os.path.exists(VIOLATIONS_REPORT_PATH),
-        'violations_count': len(load_violations())
+        'violations_file_exists': exists,
+        'violations_count': len(violations),
+        'violations_path': VIOLATIONS_REPORT_PATH,
+        'violations_source': 'remote' if is_remote else ('local' if VIOLATIONS_REPORT_PATH else 'unset')
     }), 200
 
 
@@ -447,5 +492,50 @@ def server_error(error):
     return jsonify({'message': 'Internal server error'}), 500
 
 
+@app.route('/api/detect', methods=['POST'])
+@jwt_required(optional=True)
+def detect():
+    """Run model inference on uploaded image (requires MODEL_PATH)."""
+    global MODEL
+    model_path = os.getenv('MODEL_PATH', '')
+    if MODEL is None and model_path and os.path.exists(model_path):
+        try:
+            from ultralytics import YOLO
+            MODEL = YOLO(model_path)
+        except Exception as e:
+            return jsonify({'message': f'Failed to load model: {str(e)}'}), 500
+
+    if MODEL is None:
+        return jsonify({'message': 'Model not available. Set MODEL_PATH env and ensure file exists.'}), 503
+
+    if 'image' not in request.files:
+        return jsonify({'message': 'Image file field "image" required'}), 400
+
+    file = request.files['image']
+    try:
+        img_bytes = file.read()
+        image = Image.open(io.BytesIO(img_bytes))
+    except Exception:
+        return jsonify({'message': 'Invalid image'}), 400
+
+    try:
+        results = MODEL(image)
+        parsed = []
+        for r in results:  # ultralytics result list
+            boxes = getattr(r, 'boxes', None)
+            if boxes is None:
+                continue
+            for b in boxes:
+                xyxy = b.xyxy.cpu().numpy().tolist()[0]
+                cls = int(b.cls.cpu().item()) if hasattr(b, 'cls') else None
+                conf = float(b.conf.cpu().item()) if hasattr(b, 'conf') else None
+                parsed.append({'bbox': xyxy, 'class': cls, 'confidence': conf})
+        return jsonify({'detections': parsed, 'count': len(parsed)}), 200
+    except Exception as e:
+        return jsonify({'message': f'Inference error: {str(e)}'}), 500
+
+
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    debug_flag = os.getenv('FLASK_DEBUG', 'false').lower() == 'true'
+    port = int(os.getenv('PORT', '5000'))
+    app.run(debug=debug_flag, host='0.0.0.0', port=port)
