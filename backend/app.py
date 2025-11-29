@@ -6,7 +6,6 @@ import os
 from datetime import datetime, timedelta
 import csv
 from functools import wraps
-from PIL import Image
 import io
 from urllib.parse import urlparse
 import requests
@@ -510,6 +509,12 @@ def detect():
 
     if 'image' not in request.files:
         return jsonify({'message': 'Image file field "image" required'}), 400
+
+    # Import Pillow only when needed, and handle missing dependency gracefully
+    try:
+        from PIL import Image
+    except Exception:
+        return jsonify({'message': 'Pillow (PIL) not installed on server'}), 500
 
     file = request.files['image']
     try:
