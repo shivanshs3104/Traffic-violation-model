@@ -8,7 +8,12 @@ import csv
 from functools import wraps
 import io
 from urllib.parse import urlparse
-import requests
+try:
+    import requests
+except Exception:
+    requests = None
+    import urllib.request
+    import urllib.error
 
 MODEL = None  # Lazy-loaded YOLO model (set via MODEL_PATH env)
 
@@ -55,9 +60,15 @@ def load_violations():
     try:
         parsed = urlparse(VIOLATIONS_REPORT_PATH)
         if parsed.scheme in ("http", "https"):
-            resp = requests.get(VIOLATIONS_REPORT_PATH, timeout=10)
-            resp.raise_for_status()
-            data = resp.json()
+            if requests:
+                resp = requests.get(VIOLATIONS_REPORT_PATH, timeout=10)
+                resp.raise_for_status()
+                data = resp.json()
+            else:
+                with urllib.request.urlopen(VIOLATIONS_REPORT_PATH, timeout=10) as resp:
+                    charset = resp.headers.get_content_charset() or 'utf-8'
+                    raw = resp.read().decode(charset)
+                    data = json.loads(raw)
         else:
             with open(VIOLATIONS_REPORT_PATH, 'r', encoding='utf-8') as f:
                 data = json.load(f)
@@ -430,13 +441,23 @@ def health():
     try:
         if VIOLATIONS_REPORT_PATH:
             if is_remote:
-                # HEAD may be blocked by some hosts; fall back to GET status if needed
-                try:
-                    r = requests.head(VIOLATIONS_REPORT_PATH, timeout=5)
-                    exists = r.status_code == 200
-                except Exception:
-                    r = requests.get(VIOLATIONS_REPORT_PATH, timeout=5)
-                    exists = r.status_code == 200
+                # Check remote existence
+                if requests:
+                    try:
+                        r = requests.head(VIOLATIONS_REPORT_PATH, timeout=5)
+                        exists = r.status_code == 200
+                    except Exception:
+                        try:
+                            r = requests.get(VIOLATIONS_REPORT_PATH, timeout=5)
+                            exists = r.status_code == 200
+                        except Exception:
+                            exists = False
+                else:
+                    try:
+                        with urllib.request.urlopen(VIOLATIONS_REPORT_PATH, timeout=5) as _:
+                            exists = True
+                    except Exception:
+                        exists = False
             else:
                 exists = os.path.exists(VIOLATIONS_REPORT_PATH)
     except Exception:
