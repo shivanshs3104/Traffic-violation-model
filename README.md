@@ -5,9 +5,12 @@ A clean, responsive admin dashboard for AI+ANPR traffic violations with charts, 
 Demo login:
 - Email: admin@traffic.ai
 - Password: admin123
-- <img width="1919" height="872" alt="Screenshot 2025-11-29 115006" src="https://github.com/user-attachments/assets/3bf85fe5-516c-4c76-90a0-83942492c15c" />
-<img width="1919" height="872" alt="Screenshot 2025-11-29 122148" src="https://github.com/user-attachments/assets/dba4f98a-2da1-490f-ac8b-afd996cb9d2f" />
-<img width="1910" height="871" alt="Screenshot 2025-11-29 123448" src="https://github.com/user-attachments/assets/19786bd6-b911-40ca-bfd6-5e545137cc91" />
+- <img width="1919" height="872" alt="Screenshot 2025-11-29 115006" src="https://github.com/user-attachments/assets/23bc6880-a946-49c4-8956-95462b7ca010" />
+
+- <img width="1919" height="872" alt="Screenshot 2025-11-29 122148" src="https://github.com/user-attachments/assets/087f8ab5-fc6e-403c-aa6b-3f882bd49429" />
+
+- <img width="1910" height="871" alt="Screenshot 2025-11-29 123448" src="https://github.com/user-attachments/assets/8757e499-4578-44c7-a0b5-9f419aa14801" />
+
 
 
 
@@ -27,7 +30,7 @@ dashboard.html
 css/style.css
 js/login.js
 js/dashboard.js
-data/violations.json        # your predictions
+data/violations.json        # predictions
 data/results/images/        # proof images (filenames match JSON)
 server/ (optional Express mock)
 ```
